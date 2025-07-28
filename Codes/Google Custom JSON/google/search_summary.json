@@ -1,0 +1,35 @@
+{
+  "total_queries": 5,
+  "total_results": 50,
+  "unique_domains": [
+    "www.mykitsch.com",
+    "www.amazon.com",
+    "www.target.com",
+    "www.etsy.com",
+    "splendette.com",
+    "www.simons.com",
+    "www.walmart.com",
+    "www.cvs.com",
+    "www.kitschy.co.uk",
+    "www.pinterest.com",
+    "www.coutukitsch.com",
+    "www.sephora.sg",
+    "mykitsch.com",
+    "www.ulta.com",
+    "www.sunbum.com",
+    "www.reddit.com",
+    "www.instagram.com",
+    "betseyjohnson.com"
+  ],
+  "result_types": {
+    "website": 21,
+    "product.group": 4,
+    "product": 12,
+    "": 8,
+    "profile": 1,
+    "Product": 1,
+    "product.item": 2,
+    "Website": 1
+  },
+  "unique_domain_count": 18
+}

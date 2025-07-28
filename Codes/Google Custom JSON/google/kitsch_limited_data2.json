@@ -1,0 +1,2682 @@
+{
+  "metadata": {
+    "total_queries": 20,
+    "total_results": 110,
+    "timestamp": "2025-07-24 14:44:34",
+    "quota_limited": false,
+    "discovered_collections": [
+      "best-sellers",
+      "hair-styling",
+      "best-sellers-shampoos-conditioners",
+      "hair-accessories-collabs",
+      "hair-accessories",
+      "headbands",
+      "shower-caps",
+      "hair-oils",
+      "hair-ties",
+      "bobby-pins",
+      "bobby-pins-hair-clips",
+      "microfiber-towels",
+      "shop-satin-pillowcases",
+      "towel-scrunchies",
+      "hair-body-care-from-kitsch",
+      "hair-ties-scrunchies",
+      "disney-pillowcases",
+      "all-pillowcases",
+      "spa-headbands",
+      "satin-pillowcases-catalogue",
+      "hair-towels-shower-caps",
+      "hair-treatments",
+      "hair-care"
+    ],
+    "discovered_products": [
+      "barbie-x-kitsch-satin-brunch-scrunchies-2pc",
+      "satin-pillowcase-ivory",
+      "luxe-shower-cap-black-and-white-stripe",
+      "satin-pillowcase-charcoal-grey",
+      "cherry-print-satin-shower-cap",
+      "satin-sleep-scrunchie-black",
+      "stretchy-headbands-3pc-set-rosewood",
+      "satin-sleep-pillow-scrunchies-charcoal-gold",
+      "satin-pillowcase-aura",
+      "mini-spa-rollers",
+      "snap-clip",
+      "hello-kitty-x-kitsch-recycled-plastic-creaseless-clips-2pc-set",
+      "satin-lined-flexi-shower-cap-xl-hair-towel-bundle",
+      "rosewood-wide-twist-headbands-2pc-set",
+      "travel-case-bundle",
+      "satin-lined-flexi-shower-cap-terracotta-checker",
+      "kitsch-x-bridgerton-satin-pillow-scrunchies",
+      "mickey-minnie-x-kitsch-recycled-plastic-rhinestone-puffy-claw-clip-1pc-cream",
+      "mickey-minnie-x-kitsch-satin-lined-flexi-shower-cap-mickey-maze",
+      "ponyfull-blonde",
+      "satin-pillowcase-leopard",
+      "satin-glazey-pink",
+      "dermaplaning-oil",
+      "styling-clip-rose-gold",
+      "ice-roller",
+      "zig-zag-headband-2pc-black-and-tort",
+      "recycled-plastic-zig-zag-headband-2pc-neutral",
+      "velvet-scrunchies-blush-mauve",
+      "ultra-petite-satin-scrunchies-6pc-eucalyptus",
+      "ultra-petite-satin-scrunchies-6pc-terracotta",
+      "glazey-charcoal",
+      "dermaplaner",
+      "love-comfort-2pc-spa-set",
+      "assorted-satin-sleep-scrunchies",
+      "mickey-minnie-x-kitsch-pillowcase-standard-mr-mouse",
+      "metal-rhinestone-creaseless-clips-2pc-set",
+      "hair-catcher",
+      "microfiber-towel-scrunchies-micro-dot",
+      "creaseless-clips-4pc-set-black-terrazzo"
+    ],
+    "processed_urls": [
+      "https://www.mykitsch.com/products/zig-zag-headband-2pc-black-and-tort",
+      "https://www.mykitsch.com/products/ultra-petite-satin-scrunchies-6pc-eucalyptus",
+      "https://www.mykitsch.com/collections/hair-towels-shower-caps",
+      "https://www.mykitsch.com/collections/satin-pillowcases-catalogue",
+      "https://www.mykitsch.com/zh-sg",
+      "https://www.mykitsch.com/products/cherry-print-satin-shower-cap",
+      "https://www.mykitsch.com/products/stretchy-headbands-3pc-set-rosewood",
+      "https://mykitsch.com/collections/hair-accessories/satin",
+      "https://www.mykitsch.com/products/hello-kitty-x-kitsch-recycled-plastic-creaseless-clips-2pc-set",
+      "https://www.mykitsch.com/products/luxe-shower-cap-black-and-white-stripe",
+      "https://www.mykitsch.com/products/ultra-petite-satin-scrunchies-6pc-terracotta",
+      "https://www.mykitsch.com/collections/bobby-pins-hair-clips/hair",
+      "https://www.mykitsch.com/collections/best-sellers",
+      "https://www.mykitsch.com/en-mx/collections/headbands",
+      "https://www.mykitsch.com/collections/hair-ties",
+      "https://www.mykitsch.com/products/ponyfull-blonde",
+      "https://www.mykitsch.com/en-hk/products/kitsch-luxe-shower-cap-blush-dot",
+      "https://www.mykitsch.com/collections/bobby-pins",
+      "https://www.mykitsch.com/sv-ee",
+      "https://www.mykitsch.com/pages/hair-body-care-from-kitsch",
+      "https://www.mykitsch.com/products/velvet-scrunchies-blush-mauve",
+      "https://www.mykitsch.com/products/assorted-satin-sleep-scrunchies",
+      "https://www.mykitsch.com/es",
+      "https://www.mykitsch.com/collections/bobby-pins-hair-clips",
+      "https://www.mykitsch.com/pt-br",
+      "https://www.mykitsch.com/collections/disney-pillowcases",
+      "https://www.mykitsch.com/products/hair-catcher",
+      "https://www.mykitsch.com/products/recycled-plastic-zig-zag-headband-2pc-neutral",
+      "https://www.mykitsch.com/products/mini-spa-rollers",
+      "https://www.mykitsch.com/products/creaseless-clips-4pc-set-black-terrazzo",
+      "https://www.mykitsch.com/en-no/products/creaseless-clips-4pc-set-black-terrazzo",
+      "https://www.mykitsch.com/collections/bobby-pins?page=3",
+      "https://www.mykitsch.com/collections/shop-satin-pillowcases",
+      "https://www.mykitsch.com/products/dermaplaning-oil",
+      "https://www.mykitsch.com/collections/hair-styling",
+      "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-pillowcase-standard-mr-mouse",
+      "https://www.mykitsch.com/products/satin-sleep-scrunchie-black",
+      "https://www.mykitsch.com/collections/spa-headbands",
+      "https://www.mykitsch.com/products/satin-glazey-pink",
+      "https://www.mykitsch.com/products/satin-lined-flexi-shower-cap-terracotta-checker",
+      "https://www.mykitsch.com/products/barbie-x-kitsch-satin-brunch-scrunchies-2pc",
+      "https://www.mykitsch.com/collections/best-sellers/bed-sheets",
+      "https://www.mykitsch.com/fr",
+      "https://www.mykitsch.com/products/satin-pillowcase-leopard",
+      "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-satin-lined-flexi-shower-cap-mickey-maze",
+      "https://www.mykitsch.com/products/travel-case-bundle",
+      "https://www.mykitsch.com/collections/hair-ties-scrunchies",
+      "https://www.mykitsch.com/products/satin-lined-flexi-shower-cap-xl-hair-towel-bundle",
+      "https://www.mykitsch.com/products/metal-rhinestone-creaseless-clips-2pc-set",
+      "https://www.mykitsch.com/products/love-comfort-2pc-spa-set",
+      "https://www.mykitsch.com/collections/hair-accessories-collabs",
+      "https://www.mykitsch.com/",
+      "https://www.mykitsch.com/pages/pillowcases-and-sleep",
+      "https://www.mykitsch.com/products/ice-roller",
+      "https://www.mykitsch.com/collections/bobby-pins/hair-accessories",
+      "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-recycled-plastic-rhinestone-puffy-claw-clip-1pc-cream",
+      "https://www.mykitsch.com/collections/best-sellers/claw-clip",
+      "https://www.mykitsch.com/products/snap-clip",
+      "https://www.mykitsch.com/products/satin-sleep-pillow-scrunchies-charcoal-gold",
+      "https://www.mykitsch.com/collections/best-sellers?page=2",
+      "https://www.mykitsch.com/ja-nl",
+      "https://www.mykitsch.com/products/dermaplaner",
+      "https://www.mykitsch.com/products/microfiber-towel-scrunchies-micro-dot",
+      "https://www.mykitsch.com/collections/all-pillowcases",
+      "https://www.mykitsch.com/collections/shower-caps",
+      "https://www.mykitsch.com/fr-ch",
+      "https://www.mykitsch.com/products/glazey-charcoal",
+      "https://www.mykitsch.com/products/satin-pillowcase-charcoal-grey",
+      "https://www.mykitsch.com/collections/best-sellers-shampoos-conditioners",
+      "https://www.mykitsch.com/collections/hair-care",
+      "https://www.mykitsch.com/products/styling-clip-rose-gold",
+      "https://www.mykitsch.com/products/rosewood-wide-twist-headbands-2pc-set",
+      "https://www.mykitsch.com/collections/headbands",
+      "https://www.mykitsch.com/collections/microfiber-towels",
+      "https://www.mykitsch.com/collections/hair-accessories/hair-accessories",
+      "https://www.mykitsch.com/collections",
+      "https://www.mykitsch.com/collections/towel-scrunchies",
+      "https://www.mykitsch.com/products/satin-pillowcase-ivory",
+      "https://www.mykitsch.com/en-fr",
+      "https://www.mykitsch.com/collections/hair-treatments",
+      "https://www.mykitsch.com/products/kitsch-x-bridgerton-satin-pillow-scrunchies",
+      "https://www.mykitsch.com/pages/shower",
+      "https://www.mykitsch.com/collections/hair-oils",
+      "https://www.mykitsch.com/products/satin-pillowcase-aura",
+      "https://www.mykitsch.com/collections/hair-accessories/color-crepe-scarf-scrunchie-2pc-set-terra-cotta",
+      "https://www.mykitsch.com/collections/hair-accessories/hair",
+      "https://www.mykitsch.com/collections/hair-accessories",
+      "https://www.mykitsch.com/collections/hair-body-care-from-kitsch",
+      "https://www.mykitsch.com/collections/bobby-pins/hair-accessories-claw-clips"
+    ],
+    "queries_used": 20,
+    "queries_limit": 50
+  },
+  "categories": {
+    "es": {
+      "name": "es",
+      "url": "https://www.mykitsch.com/es",
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free."
+    },
+    "fr": {
+      "name": "fr",
+      "url": "https://www.mykitsch.com/fr",
+      "title": "accessoires cheveux, soins capillaires + beauté – KITSCH",
+      "description": "Entrepreneuse de premier plan, citée dans Forbes et Inc, Cassandra continue de créer des solutions de beauté élevées et durables pour chaque moment de la ..."
+    },
+    "fr-ch": {
+      "name": "fr-ch",
+      "url": "https://www.mykitsch.com/fr-ch",
+      "title": "accessoires cheveux, soins capillaires + beauté – KITSCH",
+      "description": "Entrepreneuse de premier plan, citée dans Forbes et Inc, Cassandra continue de créer des solutions de beauté élevées et durables pour chaque moment de la ..."
+    },
+    "ja-nl": {
+      "name": "ja-nl",
+      "url": "https://www.mykitsch.com/ja-nl",
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free."
+    },
+    "sv-ee": {
+      "name": "sv-ee",
+      "url": "https://www.mykitsch.com/sv-ee",
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "description": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work."
+    },
+    "pt-br": {
+      "name": "pt-br",
+      "url": "https://www.mykitsch.com/pt-br",
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "description": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work."
+    },
+    "en-fr": {
+      "name": "en-fr",
+      "url": "https://www.mykitsch.com/en-fr",
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "description": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work."
+    },
+    "zh-sg": {
+      "name": "zh-sg",
+      "url": "https://www.mykitsch.com/zh-sg",
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "description": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work."
+    },
+    "en-mx/collections/headbands": {
+      "name": "en-mx/collections/headbands",
+      "url": "https://www.mykitsch.com/en-mx/collections/headbands",
+      "title": "Shop Headbands | KITSCH Eco-Friendly Hair Accessories with Free ...",
+      "description": "Collection: Headbands · Rice Water Conditioner Bar for Hair Growth Rice Water Conditioner Bar for Hair Growth · Zig Zag Headband 2pc - Black & Tort Zig Zag ..."
+    },
+    "en-no/products/creaseless-clips-4pc-set-black-terrazzo": {
+      "name": "en-no/products/creaseless-clips-4pc-set-black-terrazzo",
+      "url": "https://www.mykitsch.com/en-no/products/creaseless-clips-4pc-set-black-terrazzo",
+      "title": "Creaseless Hair Clips 4pc Set – KITSCH",
+      "description": "Kitsch Eco-Friendly Creaseless Clips are a make up maven's must-have. Made with recycled materials, these clips are kind on your hair & the environment ..."
+    },
+    "en-hk/products/kitsch-luxe-shower-cap-blush-dot": {
+      "name": "en-hk/products/kitsch-luxe-shower-cap-blush-dot",
+      "url": "https://www.mykitsch.com/en-hk/products/kitsch-luxe-shower-cap-blush-dot",
+      "title": "Blush Dot Shower Cap – KITSCH",
+      "description": "Keep your hair dry and your skin comfortable with our stylish and sustainable Recycled Polyester Luxe Shower Cap - Blush Dot. Featuring a no-slip silicone ..."
+    }
+  },
+  "collections": {
+    "best-sellers": {
+      "name": "best-sellers",
+      "url": "https://www.mykitsch.com/collections/best-sellers",
+      "title": "Best Sellers | KITSCH Everyday Essentials",
+      "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "products": []
+    },
+    "best-sellers-shampoos-conditioners": {
+      "name": "best-sellers-shampoos-conditioners",
+      "url": "https://www.mykitsch.com/collections/best-sellers-shampoos-conditioners",
+      "title": "Best Sellers - Shampoos & Conditioners – KITSCH",
+      "description": "Collection: Best Sellers - Shampoos & Conditioners ... LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails.",
+      "products": []
+    },
+    "hair-accessories": {
+      "name": "hair-accessories",
+      "url": "https://mykitsch.com/collections/hair-accessories/satin",
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online – tagged ...",
+      "description": "So dress up that first date 'do with one of our signature bun pins or throw it back to the 90's with our super soft scrunchies. Whether you're opting for a laid ...",
+      "products": []
+    },
+    "hair-ties": {
+      "name": "hair-ties",
+      "url": "https://www.mykitsch.com/collections/hair-ties",
+      "title": "Shop Hair Ties at KITSCH | Free Shipping $35+ | 90 Day Returns",
+      "description": "8 Pack Mini Hair Coils - Transparent Hair Accessories KITSCH Mini Hair Coils - Transparent 41 Reviews Regular price $6.00",
+      "products": []
+    },
+    "hair-care": {
+      "name": "hair-care",
+      "url": "https://www.mykitsch.com/collections/hair-care",
+      "title": "Hair Care | KITSCH: Designer Hair Products Online",
+      "description": "Hair Care - Evolving your everyday essentials, KITSCH is a US designed brand worn & loved by your favorite celebrities.",
+      "products": []
+    },
+    "hair-body-care-from-kitsch": {
+      "name": "hair-body-care-from-kitsch",
+      "url": "https://www.mykitsch.com/collections/hair-body-care-from-kitsch",
+      "title": "Hair Body Care From Kitsch – KITSCH",
+      "description": "Hair & Body Care Discover Our Luxurious Hair & Body Care Collections Tailored for Every Need Reduces Single-Use Plastic Cruelty-Free CYBER WEEK SALE UP TO ...",
+      "products": []
+    },
+    "hair-treatments": {
+      "name": "hair-treatments",
+      "url": "https://www.mykitsch.com/collections/hair-treatments",
+      "title": "Styling & Treatments – KITSCH",
+      "description": "Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE. By submitting this form and signing up for texts, ...",
+      "products": []
+    },
+    "hair-styling": {
+      "name": "hair-styling",
+      "url": "https://www.mykitsch.com/collections/hair-styling",
+      "title": "Hair Styling – KITSCH",
+      "description": "LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE. By submitting this form and signing up ...",
+      "products": []
+    },
+    "hair-oils": {
+      "name": "hair-oils",
+      "url": "https://www.mykitsch.com/collections/hair-oils",
+      "title": "Hair Oils – KITSCH",
+      "description": "LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE. By submitting this form and signing up ...",
+      "products": []
+    },
+    "towel-scrunchies": {
+      "name": "towel-scrunchies",
+      "url": "https://www.mykitsch.com/collections/towel-scrunchies",
+      "title": "Shop Towel Scrunchies at Kitsch & Get Free Shipping over $35 ...",
+      "description": "Shop Towel Scrunchies from Kitsch today! Our eco-friendly hair care and beauty accessories are perfect for any hair type and come with free shipping over ...",
+      "products": []
+    },
+    "headbands": {
+      "name": "headbands",
+      "url": "https://www.mykitsch.com/collections/headbands",
+      "title": "Shop Headbands | KITSCH Eco-Friendly Hair Accessories with Free ...",
+      "description": "Add a touch of glamour to your look with KITSCH's range of fashionable headbands. Enjoy free shipping on orders over $35 and 90 day free returns.",
+      "products": []
+    },
+    "microfiber-towels": {
+      "name": "microfiber-towels",
+      "url": "https://www.mykitsch.com/collections/microfiber-towels",
+      "title": "Shop Hair Towels & Spa Headbands | Free Shipping $35+ | KITSCH",
+      "description": "Pamper yourself with Kitsch's microfiber hair towels and spa head bands! Shop this collection for free shipping over $35.",
+      "products": []
+    },
+    "spa-headbands": {
+      "name": "spa-headbands",
+      "url": "https://www.mykitsch.com/collections/spa-headbands",
+      "title": "Buy Eco-Friendly Spa Headbands: Free Shipping over $35 | KITSCH",
+      "description": "Refresh and recharge with KITSCH's Spa Headband collection. Find the perfect headband to relax in style and enjoy free shipping on orders over $35.",
+      "products": []
+    },
+    "bobby-pins": {
+      "name": "bobby-pins",
+      "url": "https://www.mykitsch.com/collections/bobby-pins",
+      "title": "Bobby Pins & Hair Clips | KITSCH",
+      "description": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+      "products": []
+    },
+    "all-pillowcases": {
+      "name": "all-pillowcases",
+      "url": "https://www.mykitsch.com/collections/all-pillowcases",
+      "title": "All Pillowcases – KITSCH",
+      "description": "New! Satin Pillowcase in Cherry Print. 4.9. Rated 4.9 out of 5 stars. 14,498 Reviews. Regular price $19.00. Unit price / per · Satin Pillowcase in Leopard Satin ...",
+      "products": []
+    },
+    "shop-satin-pillowcases": {
+      "name": "shop-satin-pillowcases",
+      "url": "https://www.mykitsch.com/collections/shop-satin-pillowcases",
+      "title": "Shop Satin Pillowcases | KITSCH",
+      "description": "Satin Pillowcases - Our Satin collection is made of vegan fiber - 100% polyester satin that is gentle to your hair & skin.",
+      "products": []
+    },
+    "satin-pillowcases-catalogue": {
+      "name": "satin-pillowcases-catalogue",
+      "url": "https://www.mykitsch.com/collections/satin-pillowcases-catalogue",
+      "title": "Satin Pillowcases Catalogue – KITSCH",
+      "description": "Select items, 40% OFF - only for a short time. SHOP NOW · Home · Satin Pillowcases Catalogue. Collection: Satin Pillowcases Catalogue. Sort By: manual.",
+      "products": []
+    },
+    "disney-pillowcases": {
+      "name": "disney-pillowcases",
+      "url": "https://www.mykitsch.com/collections/disney-pillowcases",
+      "title": "Disney pillowcases – KITSCH",
+      "description": "Select items, 40% OFF - only for a short time. SHOP NOW · Home · Disney pillowcases. Collection: Disney pillowcases. Sort By: manual. Best Selling",
+      "products": []
+    },
+    "shower-caps": {
+      "name": "shower-caps",
+      "url": "https://www.mykitsch.com/collections/shower-caps",
+      "title": "Shop Eco-Friendly Shower Caps - KITSCH Free Shipping over $35",
+      "description": "Keep your hair dry and protected with high-quality shower caps from KITSCH. Enjoy free shipping over $35 and be sure to make a statement with Kitsch's ...",
+      "products": []
+    },
+    "hair-towels-shower-caps": {
+      "name": "hair-towels-shower-caps",
+      "url": "https://www.mykitsch.com/collections/hair-towels-shower-caps",
+      "title": "Shower Caps & Hair Towels – KITSCH",
+      "description": "New! Cherry Print Satin Shower Cap. 4.9. Rated 4.9 out of 5 stars. 2,044 Reviews. Regular price $24.00. Unit price / per · Cherry Print XL Hair Towel Wrap ...",
+      "products": []
+    },
+    "hair-accessories-collabs": {
+      "name": "hair-accessories-collabs",
+      "url": "https://www.mykitsch.com/collections/hair-accessories-collabs",
+      "title": "Hair Accessories Collabs – KITSCH",
+      "description": "Collection: Hair Accessories Collabs · Kitsch x elf Scrunchies 2pc Set Kitsch x elf Scrunchies 2pc Set · Hello Kitty x Kitsch XL Satin Heatless Styling & Bow ...",
+      "products": []
+    },
+    "hair-ties-scrunchies": {
+      "name": "hair-ties-scrunchies",
+      "url": "https://www.mykitsch.com/collections/hair-ties-scrunchies",
+      "title": "Hair Ties & Scrunchies – KITSCH",
+      "description": "Select items, 40% OFF - only for a short time. SHOP NOW · Home · Hair Ties & Scrunchies. Collection: Hair Ties & Scrunchies. Sort By: manual. Best Selling",
+      "products": []
+    },
+    "bobby-pins-hair-clips": {
+      "name": "bobby-pins-hair-clips",
+      "url": "https://www.mykitsch.com/collections/bobby-pins-hair-clips",
+      "title": "Claw Clips | KITSCH - Evolving Your Everyday Essentials",
+      "description": "Claw Clips — Shop premium claw clips in high quality metals including gold, rose gold and silver.",
+      "products": []
+    }
+  },
+  "products": {
+    "dermaplaner": {
+      "name": "dermaplaner",
+      "url": "https://www.mykitsch.com/products/dermaplaner",
+      "title": "Recycled Plastic Dermaplaners 12pc Set- Black – KITSCH",
+      "description": "The dermaplaner helps to exfoliate facial skin by gently removing dead skin cells and unwanted hair that trap dirt and oil. It's great for prepping your skin ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/5454-Dermaplaner-12pc-Kitschpro-Black-Hero-3-1280x1280px.jpg?v=1703202111",
+      "price": "12.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "snap-clip": {
+      "name": "snap-clip",
+      "url": "https://www.mykitsch.com/products/snap-clip",
+      "title": "Snap Clip by KITSCH",
+      "description": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work. The brand ...",
+      "image": "http://www.mykitsch.com/cdn/shop/products/snap-hair-clips-10pc-black-267266.jpg?v=1644899769",
+      "price": "6.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "ice-roller": {
+      "name": "ice-roller",
+      "url": "https://www.mykitsch.com/products/ice-roller",
+      "title": "Terracotta Ice Roller – KITSCH",
+      "description": "Transform your skincare routine with our Ice Roller. With the ability to help de-puff and brighten the under-eye area, minimize redness, and rejuvenate your ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/5447-RecycledPlastic-IceRoller-Cleanse-Terracotta-hero-1280x1280px.jpg?v=1711654541",
+      "price": "18.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "ponyfull-blonde": {
+      "name": "ponyfull-blonde",
+      "url": "https://www.mykitsch.com/products/ponyfull-blonde",
+      "title": "Blonde PonyfullÂ® – KITSCH",
+      "description": "Add volume and thickness to your ponytail or topknot in just minutes. No need for costly extensions or hairpieces. Patented innovation provides ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/4482-PONYFULL-KitschPro-Blonde-1280x1280px.jpg?v=1727434869",
+      "price": "12.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "dermaplaning-oil": {
+      "name": "dermaplaning-oil",
+      "url": "https://www.mykitsch.com/products/dermaplaning-oil",
+      "title": "Hydrating Dermaplane Oil – KITSCH",
+      "description": "Hydrating Dermaplane Oil · Preps the skin for a hydrated, irritation-free shave · Features a lightweight, antioxidant-rich combination of grapeseed, jojoba, ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/dermaplane-oil.jpg?v=1738867859",
+      "price": "19.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "hair-catcher": {
+      "name": "hair-catcher",
+      "url": "https://www.mykitsch.com/products/hair-catcher",
+      "title": "Gray Kitsch Hair Catcher – KITSCH",
+      "description": "It really work well for long hair but not for short ones like the one from my bangs or boyfriend ones. I can recommend it if you don't want to have a drain ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/65805-HairCatcher-Consumables-Gray-hero-1280x1280px.jpg?v=1730409699",
+      "price": "7.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "glazey-charcoal": {
+      "name": "glazey-charcoal",
+      "url": "https://www.mykitsch.com/products/glazey-charcoal",
+      "title": "Charcoal Satin Glazey – KITSCH",
+      "description": "Customers say the Glazey is a luxurious, soft, and comfortable loungewear item that feels like wearing a silky hug or a wearable pillow fort. Many praise its ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/glazey-grey.jpg?v=1730145614",
+      "price": "118.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "mini-spa-rollers": {
+      "name": "mini-spa-rollers",
+      "url": "https://www.mykitsch.com/products/mini-spa-rollers",
+      "title": "Mini Spa Rollers 2pc Set – KITSCH",
+      "description": "Kitsch Mini Eye & Face Rollers take your routine to the next level and rejuvenate your skin with the perfect roller duo! Powerful benefits packed in a mini size ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6424-RecycledPlasticMiniSpaRollers2pc-Cleanse-Blush-hero-1280x1280px.jpg?v=1709722574",
+      "price": "16.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-glazey-pink": {
+      "name": "satin-glazey-pink",
+      "url": "https://www.mykitsch.com/products/satin-glazey-pink",
+      "title": "Pink Satin Glazey – KITSCH",
+      "description": "Slip into Glazey and feel the gentle, evenly-distributed weight hug your shoulders and core—melting stress and anxiety the same way your favorite weighted ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/504674-SatinGlazey-Sleep-Blush-Model-1280x1280px.jpg?v=1739444013",
+      "price": "118.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "travel-case-bundle": {
+      "name": "travel-case-bundle",
+      "url": "https://www.mykitsch.com/products/travel-case-bundle",
+      "title": "Pack Light Bundle - Rice Water for Hair Growth – KITSCH",
+      "description": "Get ready for strong, beautiful hair with Kitsch Travel case bundle. This eco-friendly shampoo bundle is perfect for caring for your hair morning, ...",
+      "image": "https://www.mykitsch.com/cdn/shop/files/TravelCase-RiceWaterShampoo_Conditioner-Bundle_d42fbfe5-4507-4923-b1e0-59398acec0bf.jpg?v=1753155368",
+      "price": "28.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "barbie-x-kitsch-satin-brunch-scrunchies-2pc": {
+      "name": "barbie-x-kitsch-satin-brunch-scrunchies-2pc",
+      "url": "https://www.mykitsch.com/products/barbie-x-kitsch-satin-brunch-scrunchies-2pc",
+      "title": "Barbie x kitsch Satin Brunch Scrunchies 2pc – KITSCH",
+      "description": "Designed in Barbie's signature pink and blue colors, featuring rhinestone details and neon colorways. If you're a fan of Barbie's style, then you'll love the ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/61227-BarbiexKitsch-SatinBrunchScrunchies-2pc-pkg-1280x1280px_ac622764-89d5-42f6-8b41-8186e8c0ece3.jpg?v=1687819286",
+      "price": "16.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-sleep-pillow-scrunchies-charcoal-gold": {
+      "name": "satin-sleep-pillow-scrunchies-charcoal-gold",
+      "url": "https://www.mykitsch.com/products/satin-sleep-pillow-scrunchies-charcoal-gold",
+      "title": "Charcoal & Gold Satin Pillow Scrunchies 2pc Set – KITSCH",
+      "description": "Elevate your beauty sleep with our Satin Sleep Pillow Scrunchies in Black/Gold. Made from premium satin material, these scrunchies help reduce hair breakage ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/5670-SatinPillowScrunchies-Charcoal_Gold-hero-1280x1280px.jpg?v=1709727626",
+      "price": "14.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "assorted-satin-sleep-scrunchies": {
+      "name": "assorted-satin-sleep-scrunchies",
+      "url": "https://www.mykitsch.com/products/assorted-satin-sleep-scrunchies",
+      "title": "Satin Sleep Scrunchies 5pc Set – KITSCH",
+      "description": "Each package includes 5 Satin Sleep Scrunchies in assorted black, blush, and leopard print tones. OEKO-TEX® Certified: This certifies that our satin is ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/5427-SatinScrunchies-Sleep-Assorted-hero-1280x1280px.jpg?v=1709727588",
+      "price": "8.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "ultra-petite-satin-scrunchies-6pc-eucalyptus": {
+      "name": "ultra-petite-satin-scrunchies-6pc-eucalyptus",
+      "url": "https://www.mykitsch.com/products/ultra-petite-satin-scrunchies-6pc-eucalyptus",
+      "title": "Eucalyptus Ultra Petite Satin Scrunchies 6pc set – KITSCH",
+      "description": "Crafted with eco-friendly satin, these accessories are gentle on your strands and help reduce damage and breakage when you toss your hair up on the go.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/60558-UltraPetiteSatinScrunchies-6pc-Hair-Eucalyptus-hero-1280x1280px.jpg?v=1711088567",
+      "price": "10.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "velvet-scrunchies-blush-mauve": {
+      "name": "velvet-scrunchies-blush-mauve",
+      "url": "https://www.mykitsch.com/products/velvet-scrunchies-blush-mauve",
+      "title": "Blush & Mauve Velvet Scrunchies 5pc Set – KITSCH",
+      "description": "These velvet scrunchies hold my fine, thinning hair better than any I have tried and I've spent tons of money in search of The One. They don't slip out and are ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/3188-Hair-scrunchies-velvet-blush_mauve-pkg-1280x1280px_6727aaa5-36e3-4f83-a294-1110d0274a82.jpg?v=1709810319",
+      "price": "10.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "kitsch-x-bridgerton-satin-pillow-scrunchies": {
+      "name": "kitsch-x-bridgerton-satin-pillow-scrunchies",
+      "url": "https://www.mykitsch.com/products/kitsch-x-bridgerton-satin-pillow-scrunchies",
+      "title": "Kitsch x Bridgerton Satin Pillow Scrunchies in Toile De Blue – KITSCH",
+      "description": "Two luxe, limited-edition satin scrunchies keep your hair silky & protected during beauty sleep & beyond; Elevated beauty rest with the luxurious feel of ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/63627-BridgertonxKitsch-SatinPillowScrunchies-ToileDeBlue-hero-1280x1280px.jpg?v=1712910429",
+      "price": "20.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "microfiber-towel-scrunchies-micro-dot": {
+      "name": "microfiber-towel-scrunchies-micro-dot",
+      "url": "https://www.mykitsch.com/products/microfiber-towel-scrunchies-micro-dot",
+      "title": "Micro Dot Microfiber Quick-Dry Towel Scrunchies 2pc Set – KITSCH",
+      "description": "Dry your hair in style with the Towel Scrunchies - Micro Dot. These scrunchies absorb excess water, reducing drying time and heat damage.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/0893-Microfiber-TowelScrunchies-Cleanse-MicroDot-hero-1280x1280px.jpg?v=1709639733",
+      "price": "18.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "ultra-petite-satin-scrunchies-6pc-terracotta": {
+      "name": "ultra-petite-satin-scrunchies-6pc-terracotta",
+      "url": "https://www.mykitsch.com/products/ultra-petite-satin-scrunchies-6pc-terracotta",
+      "title": "Terracotta Ultra Petite Satin Scrunchies 6pc Set – KITSCH",
+      "description": "This '90s fave is crafted with eco-friendly satin, making them gentle on your strands while helping to reduce damage and breakage when you throw your hair up.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/60527-UltraPetiteSatinScrunchies-6pc-Hair-Terracotta-hero-1280x1280px.jpg?v=1709810657",
+      "price": "10.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-sleep-scrunchie-black": {
+      "name": "satin-sleep-scrunchie-black",
+      "url": "https://www.mykitsch.com/products/satin-sleep-scrunchie-black",
+      "title": "Black Satin Sleep Scrunchies 5pc Set – KITSCH",
+      "description": "Say goodbye to bedhead and hello to a good hair day with our Satin Sleep Scrunchies! Made with soft satin material, these scrunchies won't damage your hair ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/1627-SatinScrunchies-Sleep-Black-hero-1280x1280px.jpg?v=1709727547",
+      "price": "8.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "zig-zag-headband-2pc-black-and-tort": {
+      "name": "zig-zag-headband-2pc-black-and-tort",
+      "url": "https://www.mykitsch.com/products/zig-zag-headband-2pc-black-and-tort",
+      "title": "Zig Zag Headband 2pc- Black & Tort – KITSCH",
+      "description": "Shop Kitsch's Tort Headband 2pc in black and tortoise for a sustainable and stylish accessory. These eco-friendly headbands are made with recycled plastic ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/60145-RecycledPlastic-ZigZagHeadband-2pc-Hair-Black_Tort-3-1280x1280px.jpg?v=1726002137",
+      "price": "8.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "recycled-plastic-zig-zag-headband-2pc-neutral": {
+      "name": "recycled-plastic-zig-zag-headband-2pc-neutral",
+      "url": "https://www.mykitsch.com/products/recycled-plastic-zig-zag-headband-2pc-neutral",
+      "title": "Recycled Plastic Zig Zag Headband 2pc - Neutral – KITSCH",
+      "description": "Crafted with recycled plastic, these sustainable and stylish headbands let you look your best while being gentle to the environment. Recycled Plastic Zig Zag ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/60459-RecycledPlastic-ZigZagHeadband-2pc-Model-Hair-Neutral-1280x1280px_170424c7-493f-4a58-92b3-98dfcb319aed.jpg?v=1726002128",
+      "price": "8.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "rosewood-wide-twist-headbands-2pc-set": {
+      "name": "rosewood-wide-twist-headbands-2pc-set",
+      "url": "https://www.mykitsch.com/products/rosewood-wide-twist-headbands-2pc-set",
+      "title": "Rosewood Wide Twist Headbands 2pc Set – KITSCH",
+      "description": "Gently tucks your hair back, whether you're styling it up or down Keeps hair and flyways out of your face with an elevated twist detail Includes two ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/68950-RecycledFabricWideTwistHeadbands-2pc-Hair-Rosewood-hero-1280x1280px_e5b4dad4-04c2-4a4e-8131-6059d66be118.jpg?v=1742324156",
+      "price": "12.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "stretchy-headbands-3pc-set-rosewood": {
+      "name": "stretchy-headbands-3pc-set-rosewood",
+      "url": "https://www.mykitsch.com/products/stretchy-headbands-3pc-set-rosewood",
+      "title": "Rosewood Active Headbands 3pc Set – KITSCH",
+      "description": "Soft, stretchy design keeps hair in place without slipping, and away from your face while working out or lounging Keeps hair and flyways out of your face ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/501628-RecycledFabricActiveHeadbands-3pc-Hair-Rosewood-hero-1280x1280px.jpg?v=1742320517",
+      "price": "10.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "creaseless-clips-4pc-set-black-terrazzo": {
+      "name": "creaseless-clips-4pc-set-black-terrazzo",
+      "url": "https://www.mykitsch.com/products/creaseless-clips-4pc-set-black-terrazzo",
+      "title": "Creaseless Hair Clips 4pc Set – KITSCH",
+      "description": "Kitsch Eco-Friendly Creaseless Clips are a make up maven's must-have. Made with recycled materials, these clips are kind on your hair & the environment.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/7766-EcoFriendlyCreaselessClips-4pc-KitschPro-Terrazo_Black-hero-1280x1280px.jpg?v=1709803875",
+      "price": "10.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "styling-clip-rose-gold": {
+      "name": "styling-clip-rose-gold",
+      "url": "https://www.mykitsch.com/products/styling-clip-rose-gold",
+      "title": "Rose Gold Styling Hair Clips 6pc Set – KITSCH",
+      "description": "Shop the Styling Hair Clips 6pc in Rose Gold from Hair Accessories at KITSCH. These salon-quality clips have pro strength hinges and are perfect for all ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/1542-KitschPro-stylingClips-roseGold-hero-1280x1280px.jpg?v=1709803309",
+      "price": "10.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "metal-rhinestone-creaseless-clips-2pc-set": {
+      "name": "metal-rhinestone-creaseless-clips-2pc-set",
+      "url": "https://www.mykitsch.com/products/metal-rhinestone-creaseless-clips-2pc-set",
+      "title": "Metal Rhinestone Creaseless Clips 2pc Set- Hematite – KITSCH",
+      "description": "The ultimate hair accessory for anyone who wants to keep their hair in place without any creases! Our clips feature a beautiful rhinestone design that adds ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/62040-MetalCreaselessClips-2pc-Hair-Black_Rhinestone-pkg-1280x1280px_1.jpg?v=1711024122",
+      "price": "12.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "mickey-minnie-x-kitsch-recycled-plastic-rhinestone-puffy-claw-clip-1pc-cream": {
+      "name": "mickey-minnie-x-kitsch-recycled-plastic-rhinestone-puffy-claw-clip-1pc-cream",
+      "url": "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-recycled-plastic-rhinestone-puffy-claw-clip-1pc-cream",
+      "title": "Kitsch x Mickey and Minnie Cloud Claw Clip in Cream Rhinestone ...",
+      "description": "Effortlessly clip up your hair with this playful rhinestone pattern inspired by Mickey and Minnie Medium arch shape comfortably & securely holds most hair ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/66079-MickeyMinniexKitsch-RecycledPlasticRhinestoneClawClip-1pc-Cream-hero-1280x1280px.jpg?v=1721861814",
+      "price": "12.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "hello-kitty-x-kitsch-recycled-plastic-creaseless-clips-2pc-set": {
+      "name": "hello-kitty-x-kitsch-recycled-plastic-creaseless-clips-2pc-set",
+      "url": "https://www.mykitsch.com/products/hello-kitty-x-kitsch-recycled-plastic-creaseless-clips-2pc-set",
+      "title": "Hello Kitty x Kitsch Recycled Plastic Creaseless Clips 2pc Set ...",
+      "description": "The satin pillowcases support healthy strands by helping to reduce frizz and breakage, while the hair accessories help you protect & style for happier hair and ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/65720-HelloKittyxKitsch-RecycledPlasticCreaselessClips-2pc-pkg-300dpi.jpg?v=1717509977",
+      "price": "9.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-pillowcase-ivory": {
+      "name": "satin-pillowcase-ivory",
+      "url": "https://www.mykitsch.com/products/satin-pillowcase-ivory",
+      "title": "Satin Pillowcase in Ivory – KITSCH",
+      "description": "Sleep better with our Satin Pillowcase in Ivory. This pillowcase is gentle on skin, hair, eyelashes, and eyebrows, reducing breakage and taming frizz by ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/4945-StandardSatinPillowcase-Sleep-Ivory-hero-300dpi.jpg?v=1697048564",
+      "price": "19.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-pillowcase-leopard": {
+      "name": "satin-pillowcase-leopard",
+      "url": "https://www.mykitsch.com/products/satin-pillowcase-leopard",
+      "title": "Satin Pillowcase in Leopard – KITSCH",
+      "description": "Get a good night's rest with this hydrating, anti-aging Leopard Satin Pillowcase from Kitsch! Free shipping over $35 plus 90 day free returns.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/0848-StandardSatinPillowcase-Sleep-Leopard-hero-300dpi.jpg?v=1697048355",
+      "price": "19.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-pillowcase-aura": {
+      "name": "satin-pillowcase-aura",
+      "url": "https://www.mykitsch.com/products/satin-pillowcase-aura",
+      "title": "Satin Pillowcase in Aura – KITSCH",
+      "description": "Helps to prevent facial creases from sleeping. Gentle on skin, hair, eyelashes & eyebrows. Stays Cool all night.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/8862-StandardSatinPillowcase-Sleep-Aura-hero-300dpi.jpg?v=1697049984",
+      "price": "19.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-pillowcase-charcoal-grey": {
+      "name": "satin-pillowcase-charcoal-grey",
+      "url": "https://www.mykitsch.com/products/satin-pillowcase-charcoal-grey",
+      "title": "Satin Pillowcase in Charcoal – KITSCH",
+      "description": "Indulge in a luxurious sleep with Kitsch's Satin Pillowcase in Charcoal Grey. This eco-friendly and gentle pillowcase helps reduce frizz, breakouts, ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6332-StandardSatinPillowcase-Sleep-Charcoal-hero-300dpi.jpg?v=1697049190",
+      "price": "19.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "mickey-minnie-x-kitsch-pillowcase-standard-mr-mouse": {
+      "name": "mickey-minnie-x-kitsch-pillowcase-standard-mr-mouse",
+      "url": "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-pillowcase-standard-mr-mouse",
+      "title": "Kitsch x Mickey and Minnie Satin Pillowcase in Mr. Mouse – KITSCH",
+      "description": "Get some beauty sleep with this satin pillowcase featuring playful line drawings of your best friends, Mickey and Minnie.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/65980-MickeyMinniexKitsch-StandardSatinPillowcase-MrMouse-Cream-hero-1280x1280px.jpg?v=1721861187",
+      "price": "22.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-lined-flexi-shower-cap-terracotta-checker": {
+      "name": "satin-lined-flexi-shower-cap-terracotta-checker",
+      "url": "https://www.mykitsch.com/products/satin-lined-flexi-shower-cap-terracotta-checker",
+      "title": "Terracotta Checker Satin Shower Cap – KITSCH",
+      "description": "Open-back design makes it easy to keep all loose hair dry. 2. total hair coverage Extra-wide size & waterproof shell fully covers hair & preserves your style.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/61418-SatinLinedFlexiShowerCap-Cleanse-TerracottaChecker-hero-1280x1280px.jpg?v=1709639302",
+      "price": "19.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "luxe-shower-cap-black-and-white-stripe": {
+      "name": "luxe-shower-cap-black-and-white-stripe",
+      "url": "https://www.mykitsch.com/products/luxe-shower-cap-black-and-white-stripe",
+      "title": "Stripe Shower Cap – KITSCH",
+      "description": "Shop our stylish and sustainable Recycled Polyester Luxe Shower Cap - Stripe with a no-slip silicone grip. Stay comfortable with no skin indentations and ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/0835-Luxe-ShowerCap-Cleanse-Stripe-hero-1280x1280px.jpg?v=1709639298",
+      "price": "19.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "cherry-print-satin-shower-cap": {
+      "name": "cherry-print-satin-shower-cap",
+      "url": "https://www.mykitsch.com/products/cherry-print-satin-shower-cap",
+      "title": "Cherry Print Satin Shower Cap – KITSCH",
+      "description": "Chic cherry print brings style to your shower experience. Luxurious satin lining is gentle on most hair types. Super-soft inner layer offers extra comfort.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/69957-Satin-LinedFlexiShowerCap-SeasonalCollection-CherryPrint-hero-1280x1280px.jpg?v=1752172044",
+      "price": "24.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "mickey-minnie-x-kitsch-satin-lined-flexi-shower-cap-mickey-maze": {
+      "name": "mickey-minnie-x-kitsch-satin-lined-flexi-shower-cap-mickey-maze",
+      "url": "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-satin-lined-flexi-shower-cap-mickey-maze",
+      "title": "Kitsch x Mickey and Minnie Satin Flexi Shower Cap in Mickey Maze ...",
+      "description": "Customers say this shower cap keeps hair completely dry with its unique design. Many reviews mention the satin lining and adjustable wire closure.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/66048-MickeyMinniexKitsch-SatinLinedFlexiShowerCap-MickeyMaze-Cream-hero-1280x1280px.jpg?v=1721861880",
+      "price": "26.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "satin-lined-flexi-shower-cap-xl-hair-towel-bundle": {
+      "name": "satin-lined-flexi-shower-cap-xl-hair-towel-bundle",
+      "url": "https://www.mykitsch.com/products/satin-lined-flexi-shower-cap-xl-hair-towel-bundle",
+      "title": "Satin Lined Flexi Shower Cap + XL Hair Towel Bundle – KITSCH",
+      "description": "Luxurious satin lining is gentle on most hair types & keeps hair frizz-free. Super-soft inner layer offers extra comfort for a spa-like shower experience.",
+      "image": "http://www.mykitsch.com/cdn/shop/files/SatinLineFlexiShowerCap-XLQuickDryHairTowel-Bundle_1.jpg?v=1702511269",
+      "price": "31.00",
+      "currency": "USD",
+      "availability": ""
+    },
+    "love-comfort-2pc-spa-set": {
+      "name": "love-comfort-2pc-spa-set",
+      "url": "https://www.mykitsch.com/products/love-comfort-2pc-spa-set",
+      "title": "Flexi Shower Cap & XL Hair Towel 2pc Set – KITSCH",
+      "description": "Includes one Satin-Lined Flexi Shower Cap and one Extra Large Quick-Dry Hair Towel Wrap; Protect and preserve your style between wash days with the ...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/69056-Love_Comfort-2pc-SpaSet-Cleanse-hero-1280x1280px.jpg?v=1737399297",
+      "price": "45.00",
+      "currency": "USD",
+      "availability": ""
+    }
+  },
+  "pages": {
+    "hair-body-care-from-kitsch": {
+      "name": "hair-body-care-from-kitsch",
+      "url": "https://www.mykitsch.com/pages/hair-body-care-from-kitsch",
+      "title": "Hair & Body Care from Kitsch – KITSCH",
+      "description": "Explore Kitsch's Hair & Body Care collection for natural, eco-friendly beauty solutions. From bottle-free shampoos & conditioners to hydrating body washes, ..."
+    },
+    "pillowcases-and-sleep": {
+      "name": "pillowcases-and-sleep",
+      "url": "https://www.mykitsch.com/pages/pillowcases-and-sleep",
+      "title": "Sleep – KITSCH",
+      "description": "Select items, 40% OFF - only for a short time. SHOP NOW. Sleep. Filter by. Collection. Category. Shop all. What's New Pillowcases Satin Bonnets Eye Masks"
+    },
+    "shower": {
+      "name": "shower",
+      "url": "https://www.mykitsch.com/pages/shower",
+      "title": "Shower – KITSCH",
+      "description": "Cherry Print Satin Shower Cap. New! Cherry ... Shower Caps. Sort By: Best Sellers. Best Selling Newest to Oldest Price: Low ..."
+    }
+  },
+  "search_results": [
+    {
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "link": "https://www.mykitsch.com/",
+      "snippet": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/",
+      "image": "https://www.mykitsch.com/cdn/shop/files/63832-6745-6752-9852-60602-9487-CreativeProductShoot-Group-1280x1280px.jpg?v=1719418029&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "link": "https://www.mykitsch.com/es",
+      "snippet": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/es",
+      "image": "https://www.mykitsch.com/cdn/shop/files/63832-SelfDrainingSoapDish-BottleFreeBeauty-Terracotta-1280x1280px-72dpi_1.jpg?v=1710235522&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Collections – KITSCH",
+      "link": "https://www.mykitsch.com/collections",
+      "snippet": "Award-Winning Beauty ... Back in Stock ... Back to School ... Bar Bags ... Bar Shampoo, Condition and Wash ... Barbie Bundles ... Barbie x Kitsch Collection ... Beauty ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections",
+      "image": "https://www.mykitsch.com/cdn/shop/collections/1a53d2682626432b62a96ef1892e7c84.jpg?v=1667600224&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "accessoires cheveux, soins capillaires + beauté – KITSCH",
+      "link": "https://www.mykitsch.com/fr",
+      "snippet": "Entrepreneuse de premier plan, citée dans Forbes et Inc, Cassandra continue de créer des solutions de beauté élevées et durables pour chaque moment de la ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/fr",
+      "image": "https://www.mykitsch.com/cdn/shop/files/63832-6745-6752-9852-60602-9487-CreativeProductShoot-Group-1280x1280px.jpg?v=1719418029&width=700",
+      "metadata": {
+        "description": "kitsch fabrique des soins capillaires et des accessoires de beauté écologiques pour prendre soin de vos cheveux matin, midi et soir. La livraison est gratuite pour les commandes de 30 $ et plus, plus 90 jours de retours gratuits.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "accessoires cheveux, soins capillaires + beauté – KITSCH",
+      "link": "https://www.mykitsch.com/fr-ch",
+      "snippet": "Entrepreneuse de premier plan, citée dans Forbes et Inc, Cassandra continue de créer des solutions de beauté élevées et durables pour chaque moment de la ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/fr-ch",
+      "image": "https://www.mykitsch.com/cdn/shop/files/63832-SelfDrainingSoapDish-BottleFreeBeauty-Terracotta-1280x1280px-72dpi_1.jpg?v=1710235522&width=700",
+      "metadata": {
+        "description": "kitsch fabrique des soins capillaires et des accessoires de beauté écologiques pour prendre soin de vos cheveux matin, midi et soir. La livraison est gratuite pour les commandes de 30 $ et plus, plus 90 jours de retours gratuits.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "link": "https://www.mykitsch.com/ja-nl",
+      "snippet": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/ja-nl",
+      "image": "https://www.mykitsch.com/cdn/shop/files/63832-6745-6752-9852-60602-9487-CreativeProductShoot-Group-1280x1280px.jpg?v=1719418029&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "link": "https://www.mykitsch.com/sv-ee",
+      "snippet": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/sv-ee",
+      "image": "https://www.mykitsch.com/cdn/shop/files/63832-SelfDrainingSoapDish-BottleFreeBeauty-Terracotta-1280x1280px-72dpi_1.jpg?v=1710235522&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "link": "https://www.mykitsch.com/pt-br",
+      "snippet": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/pt-br",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69865-69421-HairPerfume-Group-Model-1280x1280px.jpg?v=1751933927&width=900",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "link": "https://www.mykitsch.com/en-fr",
+      "snippet": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/en-fr",
+      "image": "https://www.mykitsch.com/cdn/shop/files/vault-sale-desktop-photo-01_1_copy.jpg?v=1752790619&width=900",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "link": "https://www.mykitsch.com/zh-sg",
+      "snippet": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/zh-sg",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69551-TexturizingSeaSaltSpray-Consumables-Model-13-1280x1280px.jpg?v=1752676789&width=900",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Best Sellers | KITSCH Everyday Essentials",
+      "link": "https://www.mykitsch.com/collections/best-sellers",
+      "snippet": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479",
+      "metadata": {
+        "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479"
+      }
+    },
+    {
+      "title": "Best Sellers | KITSCH Everyday Essentials – Page 2",
+      "link": "https://www.mykitsch.com/collections/best-sellers?page=2",
+      "snippet": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers?page=2",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479",
+      "metadata": {
+        "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479"
+      }
+    },
+    {
+      "title": "Best Sellers | KITSCH Everyday Essentials – tagged \"bed sheets\"",
+      "link": "https://www.mykitsch.com/collections/best-sellers/bed-sheets",
+      "snippet": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers/bed-sheets",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479",
+      "metadata": {
+        "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479"
+      }
+    },
+    {
+      "title": "Best Sellers | KITSCH Everyday Essentials – tagged \"claw clip\"",
+      "link": "https://www.mykitsch.com/collections/best-sellers/claw-clip",
+      "snippet": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers/claw-clip",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479",
+      "metadata": {
+        "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479"
+      }
+    },
+    {
+      "title": "Best Sellers - Shampoos & Conditioners – KITSCH",
+      "link": "https://www.mykitsch.com/collections/best-sellers-shampoos-conditioners",
+      "snippet": "Collection: Best Sellers - Shampoos & Conditioners ... LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers-shampoos-conditioners",
+      "image": "https://www.mykitsch.com/cdn/shop/files/BFB-riceWaterProtein_conditioner-5StarReview-819677026752-3000x3000px.jpg?v=1713394983&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online – tagged ...",
+      "link": "https://mykitsch.com/collections/hair-accessories/satin",
+      "snippet": "So dress up that first date 'do with one of our signature bun pins or throw it back to the 90's with our super soft scrunchies. Whether you're opting for a laid ...",
+      "displayLink": "mykitsch.com",
+      "formattedUrl": "https://mykitsch.com/collections/hair-accessories/satin",
+      "image": "http://cdn.shopify.com/s/files/1/0104/6904/8384/files/kitsch-1small-2_4a08c64d-7d43-4fa1-b4e9-8dbb35da206b.png?v=1637892165",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "product.group",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://cdn.shopify.com/s/files/1/0104/6904/8384/files/kitsch-1small-2_4a08c64d-7d43-4fa1-b4e9-8dbb35da206b.png?v=1637892165"
+      }
+    },
+    {
+      "title": "Shop Hair Ties at KITSCH | Free Shipping $35+ | 90 Day Returns",
+      "link": "https://www.mykitsch.com/collections/hair-ties",
+      "snippet": "8 Pack Mini Hair Coils - Transparent Hair Accessories KITSCH Mini Hair Coils - Transparent 41 Reviews Regular price $6.00",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-ties",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69377-MetalCloudCuff-Large-Gold-Hair-1280x1280px.jpg?v=1741198535&width=700",
+      "metadata": {
+        "description": "Shop KITSCH's range of eco-friendly hair ties, perfect for all hair types. Get free shipping on orders over $35 and 90 days free returns.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online",
+      "link": "https://www.mykitsch.com/collections/hair-accessories",
+      "snippet": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-accessories",
+      "image": "https://www.mykitsch.com/cdn/shop/files/500447-MediumFlatCloudClip-SeasonalCollection-Cherry-hero-1280x1280px.jpg?v=1752172044&width=700",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Care | KITSCH: Designer Hair Products Online",
+      "link": "https://www.mykitsch.com/collections/hair-care",
+      "snippet": "Hair Care - Evolving your everyday essentials, KITSCH is a US designed brand worn & loved by your favorite celebrities.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-care",
+      "image": "https://www.mykitsch.com/cdn/shop/files/BFB-riceWaterProtein_conditioner-5StarReview-819677026752-3000x3000px.jpg?v=1713394983&width=700",
+      "metadata": {
+        "description": "Hair Care - Evolving your everyday essentials, KITSCH is a US designed brand worn & loved by your favorite celebrities.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online – tagged ...",
+      "link": "https://www.mykitsch.com/collections/hair-accessories/hair",
+      "snippet": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-accessories/hair",
+      "image": "https://www.mykitsch.com/cdn/shop/files/65874-HelloKittyxKitsch-XLSatinHeatlessStyling_BowClawClip-4pc-1280x1280px.jpg?v=1729021557&width=700",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online – tagged ...",
+      "link": "https://www.mykitsch.com/collections/hair-accessories/hair-accessories",
+      "snippet": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-accessories/hair-accessories",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69322-MetalCloudCuff-Medium-Gold-Hair-hero-1280x1280px.jpg?v=1740422766&width=700",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Body Care From Kitsch – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-body-care-from-kitsch",
+      "snippet": "Hair & Body Care Discover Our Luxurious Hair & Body Care Collections Tailored for Every Need Reduces Single-Use Plastic Cruelty-Free CYBER WEEK SALE UP TO ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-body-care-from-kitsch",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69858-AmberShores-HairPerfume-Fragrance-50ml-hero-1280x1280px.jpg?v=1741733760&width=700",
+      "metadata": {
+        "description": "Hair &amp; Body Care Discover Our Luxurious Hair &amp; Body Care Collections Tailored for Every Need Reduces Single-Use Plastic Cruelty-Free CYBER WEEK SALE UP TO 40% OFF EVERYTHING",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Styling & Treatments – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-treatments",
+      "snippet": "Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE. By submitting this form and signing up for texts, ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-treatments",
+      "image": "https://www.mykitsch.com/cdn/shop/files/501383-CreativeProductShoot-StylingTamingWand-Consumables-2-Opt2-IngredientFocused-1280x1280px.jpg?v=1746051632&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Styling – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-styling",
+      "snippet": "LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE. By submitting this form and signing up ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-styling",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69452-PrimingArganOil-HeatProtectant_StylingMist-HairCare-1280x1280px.jpg?v=1744240119&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Oils – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-oils",
+      "snippet": "LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE. By submitting this form and signing up ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-oils",
+      "image": "https://www.mykitsch.com/cdn/shop/files/67823-CreativeProductShoot-StrengtheningScalp_HairOil-Rosemary_Biotin-Consumables-3-1280x1280px.jpg?v=1742483967&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Recycled Plastic Dermaplaners 12pc Set- Black – KITSCH",
+      "link": "https://www.mykitsch.com/products/dermaplaner",
+      "snippet": "The dermaplaner helps to exfoliate facial skin by gently removing dead skin cells and unwanted hair that trap dirt and oil. It's great for prepping your skin ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/dermaplaner",
+      "image": "http://www.mykitsch.com/cdn/shop/files/5454-Dermaplaner-12pc-Kitschpro-Black-Hero-3-1280x1280px.jpg?v=1703202111",
+      "metadata": {
+        "description": "Achieve smoother, glowing skin with the Black Dermaplaner & Eyebrow Razor 12 pack. Gently exfoliate facial skin by removing dead skin cells and unwanted hair that can trap dirt and oil. Plus, enjoy free shipping on orders over $35.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "12.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/5454-Dermaplaner-12pc-Kitschpro-Black-Hero-3-1280x1280px.jpg?v=1703202111"
+      }
+    },
+    {
+      "title": "Snap Clip by KITSCH",
+      "link": "https://www.mykitsch.com/products/snap-clip",
+      "snippet": "Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work. The brand ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/snap-clip",
+      "image": "http://www.mykitsch.com/cdn/shop/products/snap-hair-clips-10pc-black-267266.jpg?v=1644899769",
+      "metadata": {
+        "description": "Shop Snap Clip and other hair accessories from KITSCH",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "6.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/products/snap-hair-clips-10pc-black-267266.jpg?v=1644899769"
+      }
+    },
+    {
+      "title": "Terracotta Ice Roller – KITSCH",
+      "link": "https://www.mykitsch.com/products/ice-roller",
+      "snippet": "Transform your skincare routine with our Ice Roller. With the ability to help de-puff and brighten the under-eye area, minimize redness, and rejuvenate your ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/ice-roller",
+      "image": "http://www.mykitsch.com/cdn/shop/files/5447-RecycledPlastic-IceRoller-Cleanse-Terracotta-hero-1280x1280px.jpg?v=1711654541",
+      "metadata": {
+        "description": "Transform your skincare routine with our Ice Roller. With the ability to help de-puff and brighten the under-eye area, minimize redness, and rejuvenate your complexion, now is the perfect time to try it out. Plus, enjoy free shipping on orders $35+. Shop now and experience the soothing benefits for yourself!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "18.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/5447-RecycledPlastic-IceRoller-Cleanse-Terracotta-hero-1280x1280px.jpg?v=1711654541"
+      }
+    },
+    {
+      "title": "Blonde PonyfullÂ® – KITSCH",
+      "link": "https://www.mykitsch.com/products/ponyfull-blonde",
+      "snippet": "Add volume and thickness to your ponytail or topknot in just minutes. No need for costly extensions or hairpieces. Patented innovation provides ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/ponyfull-blonde",
+      "image": "http://www.mykitsch.com/cdn/shop/files/4482-PONYFULL-KitschPro-Blonde-1280x1280px.jpg?v=1727434869",
+      "metadata": {
+        "description": "Upgrade your ponytail with Ponyfull® Blonde from Kitsch. Patented innovation provides natural-looking fullness and height to your hair in minutes, without the need for costly extensions. Plus, enjoy free shipping for orders over $35. Shop now and achieve salon-worthy hair at home!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "12.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/4482-PONYFULL-KitschPro-Blonde-1280x1280px.jpg?v=1727434869"
+      }
+    },
+    {
+      "title": "Hydrating Dermaplane Oil – KITSCH",
+      "link": "https://www.mykitsch.com/products/dermaplaning-oil",
+      "snippet": "Hydrating Dermaplane Oil · Preps the skin for a hydrated, irritation-free shave · Features a lightweight, antioxidant-rich combination of grapeseed, jojoba, ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/dermaplaning-oil",
+      "image": "http://www.mykitsch.com/cdn/shop/files/dermaplane-oil.jpg?v=1738867859",
+      "metadata": {
+        "description": "Preps the skin for a hydrated, irritation-free shave Features a lightweight, antioxidant-rich combination of grapeseed, jojoba, olive, and argan oils, plus vitamin E Multipurpose oil can be used both for dermaplaning and as an everyday, hydrating facial oil Why You'll Love This: Creates a smoother canvas for makeup and",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "19.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/dermaplane-oil.jpg?v=1738867859"
+      }
+    },
+    {
+      "title": "Gray Kitsch Hair Catcher – KITSCH",
+      "link": "https://www.mykitsch.com/products/hair-catcher",
+      "snippet": "It really work well for long hair but not for short ones like the one from my bangs or boyfriend ones. I can recommend it if you don't want to have a drain ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/hair-catcher",
+      "image": "http://www.mykitsch.com/cdn/shop/files/65805-HairCatcher-Consumables-Gray-hero-1280x1280px.jpg?v=1730409699",
+      "metadata": {
+        "description": "Keep your shower clean and your drain clear to save you a call to the plumber Catches hair without blocking or flooding Standard fit for bath &amp; shower drains Why You'll Love This: 100% flexible &amp; easy-to-clean silicone Dome shape coverage for easy hair removal Designed to securely cover most drain sizes &amp; t",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "7.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/65805-HairCatcher-Consumables-Gray-hero-1280x1280px.jpg?v=1730409699"
+      }
+    },
+    {
+      "title": "Charcoal Satin Glazey – KITSCH",
+      "link": "https://www.mykitsch.com/products/glazey-charcoal",
+      "snippet": "Customers say the Glazey is a luxurious, soft, and comfortable loungewear item that feels like wearing a silky hug or a wearable pillow fort. Many praise its ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/glazey-charcoal",
+      "image": "http://www.mykitsch.com/cdn/shop/files/glazey-grey.jpg?v=1730145614",
+      "metadata": {
+        "description": "Get ready to glow with Glazey - Charcoal by Glazey. This luxurious hair accessory is made with eco-friendly materials and is perfect for all hair types. Order now and get free shipping on orders over $35 at Kitsch.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "118.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/glazey-grey.jpg?v=1730145614"
+      }
+    },
+    {
+      "title": "Mini Spa Rollers 2pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/mini-spa-rollers",
+      "snippet": "Kitsch Mini Eye & Face Rollers take your routine to the next level and rejuvenate your skin with the perfect roller duo! Powerful benefits packed in a mini size ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/mini-spa-rollers",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6424-RecycledPlasticMiniSpaRollers2pc-Cleanse-Blush-hero-1280x1280px.jpg?v=1709722574",
+      "metadata": {
+        "description": "Relax and rejuvenate with our Mini Spa Rollers 2pc Set. Order now and take advantage of our free shipping offer on orders of $35 or more. These compact rollers are perfect for massaging tired muscles and promoting circulation. Plus, their portable size makes them ideal for travel or use at home. Don't wait, add these essential tools to your self-care routine today!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "16.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6424-RecycledPlasticMiniSpaRollers2pc-Cleanse-Blush-hero-1280x1280px.jpg?v=1709722574"
+      }
+    },
+    {
+      "title": "Pink Satin Glazey – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-glazey-pink",
+      "snippet": "Slip into Glazey and feel the gentle, evenly-distributed weight hug your shoulders and core—melting stress and anxiety the same way your favorite weighted ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/satin-glazey-pink",
+      "image": "http://www.mykitsch.com/cdn/shop/files/504674-SatinGlazey-Sleep-Blush-Model-1280x1280px.jpg?v=1739444013",
+      "metadata": {
+        "description": "Weighted “Satin-Hug” Calming – Evenly-distributed weight is stitched into the hem and hood, wrapping you in the gentle pressure of a wearable weighted blanket to help quiet anxiety and cue instant relaxation. Friction-Free Beauty Shield – Ultra-smooth, OEKO-TEX®-certified satin (95 % silky polyester, 5 % stretch-friend",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "118.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/504674-SatinGlazey-Sleep-Blush-Model-1280x1280px.jpg?v=1739444013"
+      }
+    },
+    {
+      "title": "Pack Light Bundle - Rice Water for Hair Growth – KITSCH",
+      "link": "https://www.mykitsch.com/products/travel-case-bundle",
+      "snippet": "Get ready for strong, beautiful hair with Kitsch Travel case bundle. This eco-friendly shampoo bundle is perfect for caring for your hair morning, ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/travel-case-bundle",
+      "image": "https://www.mykitsch.com/cdn/shop/files/TravelCase-RiceWaterShampoo_Conditioner-Bundle_d42fbfe5-4507-4923-b1e0-59398acec0bf.jpg?v=1753155368",
+      "metadata": {
+        "description": "Get ready for strong, beautiful hair with Kitsch Travel case bundle. This eco-friendly shampoo bundle is perfect for caring for your hair morning, noon & night. Enjoy free shipping on orders over $35 and 90 day free returns at Kitsch.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "28.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/TravelCase-RiceWaterShampoo_Conditioner-Bundle_d42fbfe5-4507-4923-b1e0-59398acec0bf.jpg?v=1753155368"
+      }
+    },
+    {
+      "title": "Barbie x kitsch Satin Brunch Scrunchies 2pc – KITSCH",
+      "link": "https://www.mykitsch.com/products/barbie-x-kitsch-satin-brunch-scrunchies-2pc",
+      "snippet": "Designed in Barbie's signature pink and blue colors, featuring rhinestone details and neon colorways. If you're a fan of Barbie's style, then you'll love the ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../barbie-x-kitsch-satin-brunch-scrunchies-2pc",
+      "image": "http://www.mykitsch.com/cdn/shop/files/61227-BarbiexKitsch-SatinBrunchScrunchies-2pc-pkg-1280x1280px_ac622764-89d5-42f6-8b41-8186e8c0ece3.jpg?v=1687819286",
+      "metadata": {
+        "description": "Unlock the dream life with our limited-edition Barbie x Kitsch collection. Express your unique style with vibrant Satin Brunch Scrunchies that add a touch of color and sparkle to your everyday look. Upgrade your hair care routine and indulge in self-expression with functional and fashionable hair accessories inspired by Barbie's timeless elegance.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "16.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/61227-BarbiexKitsch-SatinBrunchScrunchies-2pc-pkg-1280x1280px_ac622764-89d5-42f6-8b41-8186e8c0ece3.jpg?v=1687819286"
+      }
+    },
+    {
+      "title": "Charcoal & Gold Satin Pillow Scrunchies 2pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-sleep-pillow-scrunchies-charcoal-gold",
+      "snippet": "Elevate your beauty sleep with our Satin Sleep Pillow Scrunchies in Black/Gold. Made from premium satin material, these scrunchies help reduce hair breakage ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../satin-sleep-pillow-scrunchies-charcoal-gold",
+      "image": "http://www.mykitsch.com/cdn/shop/files/5670-SatinPillowScrunchies-Charcoal_Gold-hero-1280x1280px.jpg?v=1709727626",
+      "metadata": {
+        "description": "Elevate your beauty sleep with our Satin Sleep Pillow Scrunchies in Black/Gold. Made from premium satin material, these scrunchies help reduce hair breakage and minimize frizz while you sleep. Get ready for a good night's rest and wake up with silky-smooth hair. Order now and add a touch of elegance to your bedtime routine!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "14.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/5670-SatinPillowScrunchies-Charcoal_Gold-hero-1280x1280px.jpg?v=1709727626"
+      }
+    },
+    {
+      "title": "Shop Towel Scrunchies at Kitsch & Get Free Shipping over $35 ...",
+      "link": "https://www.mykitsch.com/collections/towel-scrunchies",
+      "snippet": "Shop Towel Scrunchies from Kitsch today! Our eco-friendly hair care and beauty accessories are perfect for any hair type and come with free shipping over ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/towel-scrunchies",
+      "image": "https://www.mykitsch.com/cdn/shop/products/0893-Cleanse-towel-scrunchies-microdot-1280x1280px.jpg?v=1715980357&width=700",
+      "metadata": {
+        "description": "Shop Towel Scrunchies from Kitsch today! Our eco-friendly hair care and beauty accessories are perfect for any hair type and come with free shipping over $35 and 90 day free returns.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Satin Sleep Scrunchies 5pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/assorted-satin-sleep-scrunchies",
+      "snippet": "Each package includes 5 Satin Sleep Scrunchies in assorted black, blush, and leopard print tones. OEKO-TEX® Certified: This certifies that our satin is ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/assorted-satin-sleep-scrunchies",
+      "image": "http://www.mykitsch.com/cdn/shop/files/5427-SatinScrunchies-Sleep-Assorted-hero-1280x1280px.jpg?v=1709727588",
+      "metadata": {
+        "description": "Protect your hair while you sleep with our Assorted Satin Sleep Scrunchies. Made with high-quality satin, these scrunchies create a friction-free barrier to reduce breakage, tangles, and hair thinning. Plus, enjoy free shipping on orders over $35! With a variety of colors to choose from, these scrunchies will keep your hair looking stylish and healthy all night long. Shop now and wake up to beautiful hair every day!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "8.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/5427-SatinScrunchies-Sleep-Assorted-hero-1280x1280px.jpg?v=1709727588"
+      }
+    },
+    {
+      "title": "Eucalyptus Ultra Petite Satin Scrunchies 6pc set – KITSCH",
+      "link": "https://www.mykitsch.com/products/ultra-petite-satin-scrunchies-6pc-eucalyptus",
+      "snippet": "Crafted with eco-friendly satin, these accessories are gentle on your strands and help reduce damage and breakage when you toss your hair up on the go.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../ultra-petite-satin-scrunchies-6pc-eucalyptus",
+      "image": "http://www.mykitsch.com/cdn/shop/files/60558-UltraPetiteSatinScrunchies-6pc-Hair-Eucalyptus-hero-1280x1280px.jpg?v=1711088567",
+      "metadata": {
+        "description": "Upgrade your hair game with Kitsch's Ultra Petite Satin Scrunchies in Eucalyptus. Made with eco-friendly satin, these scrunchies are gentle on your strands and reduce damage. Enjoy free shipping on orders over $35 and a chic pack of 6 to elevate any outfit. Shop now at Kitsch.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "10.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/60558-UltraPetiteSatinScrunchies-6pc-Hair-Eucalyptus-hero-1280x1280px.jpg?v=1711088567"
+      }
+    },
+    {
+      "title": "Blush & Mauve Velvet Scrunchies 5pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/velvet-scrunchies-blush-mauve",
+      "snippet": "These velvet scrunchies hold my fine, thinning hair better than any I have tried and I've spent tons of money in search of The One. They don't slip out and are ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/velvet-scrunchies-blush-mauve",
+      "image": "http://www.mykitsch.com/cdn/shop/files/3188-Hair-scrunchies-velvet-blush_mauve-pkg-1280x1280px_6727aaa5-36e3-4f83-a294-1110d0274a82.jpg?v=1709810319",
+      "metadata": {
+        "description": "Shop the Velvet Scrunchies in Blush/Mauve from Kitsch, the eco-friendly hair accessories vendor. Perfect for your ponytail or wrist, these scrunchies come in a set of 5 with free shipping on orders over $35.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "10.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/3188-Hair-scrunchies-velvet-blush_mauve-pkg-1280x1280px_6727aaa5-36e3-4f83-a294-1110d0274a82.jpg?v=1709810319"
+      }
+    },
+    {
+      "title": "Kitsch x Bridgerton Satin Pillow Scrunchies in Toile De Blue – KITSCH",
+      "link": "https://www.mykitsch.com/products/kitsch-x-bridgerton-satin-pillow-scrunchies",
+      "snippet": "Two luxe, limited-edition satin scrunchies keep your hair silky & protected during beauty sleep & beyond; Elevated beauty rest with the luxurious feel of ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../kitsch-x-bridgerton-satin-pillow-scrunchies",
+      "image": "http://www.mykitsch.com/cdn/shop/files/63627-BridgertonxKitsch-SatinPillowScrunchies-ToileDeBlue-hero-1280x1280px.jpg?v=1712910429",
+      "metadata": {
+        "description": "Two luxe, limited-edition satin scrunchies keep your hair silky &amp; protected during beauty sleep &amp; beyond Elevated beauty rest with the luxurious feel of satin Innovative alternative to traditional elastics Plush material gently holds hair in place without tugging or snagging Soft &amp; comfortable to sleep on I",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "20.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/63627-BridgertonxKitsch-SatinPillowScrunchies-ToileDeBlue-hero-1280x1280px.jpg?v=1712910429"
+      }
+    },
+    {
+      "title": "Micro Dot Microfiber Quick-Dry Towel Scrunchies 2pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/microfiber-towel-scrunchies-micro-dot",
+      "snippet": "Dry your hair in style with the Towel Scrunchies - Micro Dot. These scrunchies absorb excess water, reducing drying time and heat damage.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/microfiber-towel-scrunchies-micro-dot",
+      "image": "http://www.mykitsch.com/cdn/shop/files/0893-Microfiber-TowelScrunchies-Cleanse-MicroDot-hero-1280x1280px.jpg?v=1709639733",
+      "metadata": {
+        "description": "Dry your hair in style with the Towel Scrunchies - Micro Dot. These scrunchies absorb excess water, reducing drying time and heat damage. The micro dot pattern adds style, and the gentle elastic band won't crease your hair. Get free shipping on $35+ orders!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "18.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/0893-Microfiber-TowelScrunchies-Cleanse-MicroDot-hero-1280x1280px.jpg?v=1709639733"
+      }
+    },
+    {
+      "title": "Terracotta Ultra Petite Satin Scrunchies 6pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/ultra-petite-satin-scrunchies-6pc-terracotta",
+      "snippet": "This '90s fave is crafted with eco-friendly satin, making them gentle on your strands while helping to reduce damage and breakage when you throw your hair up.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../ultra-petite-satin-scrunchies-6pc-terracotta",
+      "image": "http://www.mykitsch.com/cdn/shop/files/60527-UltraPetiteSatinScrunchies-6pc-Hair-Terracotta-hero-1280x1280px.jpg?v=1709810657",
+      "metadata": {
+        "description": "Shop Ultra Petite Satin Scrunchies 6pc in Terracotta at Kitsch. Crafted with eco-friendly satin, these scrunchies are gentle on your hair and reduce damage. Free shipping on orders over $35.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "10.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/60527-UltraPetiteSatinScrunchies-6pc-Hair-Terracotta-hero-1280x1280px.jpg?v=1709810657"
+      }
+    },
+    {
+      "title": "Black Satin Sleep Scrunchies 5pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-sleep-scrunchie-black",
+      "snippet": "Say goodbye to bedhead and hello to a good hair day with our Satin Sleep Scrunchies! Made with soft satin material, these scrunchies won't damage your hair ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/satin-sleep-scrunchie-black",
+      "image": "http://www.mykitsch.com/cdn/shop/files/1627-SatinScrunchies-Sleep-Black-hero-1280x1280px.jpg?v=1709727547",
+      "metadata": {
+        "description": "Say goodbye to bedhead and hello to a good hair day with our Satin Sleep Scrunchies! Made with soft satin material, these scrunchies won't damage your hair while you sleep, leaving you with frizz-free locks in the morning. Get a set of 5 Black Satin Sleep Scrunchies from KITSCH Sleep Scrunchies today and conquer creases and breakage effortlessly!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "8.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/1627-SatinScrunchies-Sleep-Black-hero-1280x1280px.jpg?v=1709727547"
+      }
+    },
+    {
+      "title": "Zig Zag Headband 2pc- Black & Tort – KITSCH",
+      "link": "https://www.mykitsch.com/products/zig-zag-headband-2pc-black-and-tort",
+      "snippet": "Shop Kitsch's Tort Headband 2pc in black and tortoise for a sustainable and stylish accessory. These eco-friendly headbands are made with recycled plastic ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/zig-zag-headband-2pc-black-and-tort",
+      "image": "http://www.mykitsch.com/cdn/shop/files/60145-RecycledPlastic-ZigZagHeadband-2pc-Hair-Black_Tort-3-1280x1280px.jpg?v=1726002137",
+      "metadata": {
+        "description": "Shop Kitsch's Tort Headband 2pc in black and tortoise for a sustainable and stylish accessory. These eco-friendly headbands are made with recycled plastic and provide a comfortable non-slip grip. Enjoy free shipping on orders over $35.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "8.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/60145-RecycledPlastic-ZigZagHeadband-2pc-Hair-Black_Tort-3-1280x1280px.jpg?v=1726002137"
+      }
+    },
+    {
+      "title": "Shop Headbands | KITSCH Eco-Friendly Hair Accessories with Free ...",
+      "link": "https://www.mykitsch.com/collections/headbands",
+      "snippet": "Add a touch of glamour to your look with KITSCH's range of fashionable headbands. Enjoy free shipping on orders over $35 and 90 day free returns.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/headbands",
+      "image": "https://www.mykitsch.com/cdn/shop/files/501611-RecycledFabricActiveHeadbands-3pc-Hair-Sedona-Model-1280x1280px.jpg?v=1742320375&width=700",
+      "metadata": {
+        "description": "Add a touch of glamour to your look with KITSCH's range of fashionable headbands. Enjoy free shipping on orders over $35 and 90 day free returns. Shop now and make a statement!",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Recycled Plastic Zig Zag Headband 2pc - Neutral – KITSCH",
+      "link": "https://www.mykitsch.com/products/recycled-plastic-zig-zag-headband-2pc-neutral",
+      "snippet": "Crafted with recycled plastic, these sustainable and stylish headbands let you look your best while being gentle to the environment. Recycled Plastic Zig Zag ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../recycled-plastic-zig-zag-headband-2pc-neutra...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/60459-RecycledPlastic-ZigZagHeadband-2pc-Model-Hair-Neutral-1280x1280px_170424c7-493f-4a58-92b3-98dfcb319aed.jpg?v=1726002128",
+      "metadata": {
+        "description": "Shop the Recycled Plastic Zig Zag Headband 2pc - Neutral from Kitsch, the eco-friendly hair accessory brand. With long, wavy teeth for a non-slip grip, these sustainable and stylish headbands come in a 2-pack with neutral colors. Plus, enjoy free shipping on orders over $35.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "8.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/60459-RecycledPlastic-ZigZagHeadband-2pc-Model-Hair-Neutral-1280x1280px_170424c7-493f-4a58-92b3-98dfcb319aed.jpg?v=1726002128"
+      }
+    },
+    {
+      "title": "Rosewood Wide Twist Headbands 2pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/rosewood-wide-twist-headbands-2pc-set",
+      "snippet": "Gently tucks your hair back, whether you're styling it up or down Keeps hair and flyways out of your face with an elevated twist detail Includes two ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/rosewood-wide-twist-headbands-2pc-set",
+      "image": "http://www.mykitsch.com/cdn/shop/files/68950-RecycledFabricWideTwistHeadbands-2pc-Hair-Rosewood-hero-1280x1280px_e5b4dad4-04c2-4a4e-8131-6059d66be118.jpg?v=1742324156",
+      "metadata": {
+        "description": "Gently tucks your hair back, whether you’re styling it up or down Keeps hair and flyways out of your face with an elevated twist detail Includes two headbands in pretty neutral hues Why You'll Love This:  Made from recycled fabric for an eco-friendly, everyday look No headaches—soft, stretchy, and lightweight for maxim",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "12.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/68950-RecycledFabricWideTwistHeadbands-2pc-Hair-Rosewood-hero-1280x1280px_e5b4dad4-04c2-4a4e-8131-6059d66be118.jpg?v=1742324156"
+      }
+    },
+    {
+      "title": "Shop Headbands | KITSCH Eco-Friendly Hair Accessories with Free ...",
+      "link": "https://www.mykitsch.com/en-mx/collections/headbands",
+      "snippet": "Collection: Headbands · Rice Water Conditioner Bar for Hair Growth Rice Water Conditioner Bar for Hair Growth · Zig Zag Headband 2pc - Black & Tort Zig Zag ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/en-mx/collections/headbands",
+      "image": "https://www.mykitsch.com/cdn/shop/files/text_below_4_3.png?v=1738512366&width=600",
+      "metadata": {
+        "description": "Add a touch of glamour to your look with KITSCH's range of fashionable headbands. Enjoy free shipping on orders over $35 and 90 day free returns. Shop now and make a statement!",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Shop Hair Towels & Spa Headbands | Free Shipping $35+ | KITSCH",
+      "link": "https://www.mykitsch.com/collections/microfiber-towels",
+      "snippet": "Pamper yourself with Kitsch's microfiber hair towels and spa head bands! Shop this collection for free shipping over $35.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/microfiber-towels",
+      "image": "https://www.mykitsch.com/cdn/shop/products/4938-beauty-cleanse-hairTowel-microdot-4-1280x1280px.jpg?v=1745004930&width=700",
+      "metadata": {
+        "description": "Pamper yourself with Kitsch's microfiber hair towels and spa head bands! Shop this collection for free shipping over $35.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Buy Eco-Friendly Spa Headbands: Free Shipping over $35 | KITSCH",
+      "link": "https://www.mykitsch.com/collections/spa-headbands",
+      "snippet": "Refresh and recharge with KITSCH's Spa Headband collection. Find the perfect headband to relax in style and enjoy free shipping on orders over $35.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/spa-headbands",
+      "image": "https://www.mykitsch.com/cdn/shop/products/1791-Cleanse-spa-headband-leopard-1280x1280px.jpg?v=1715980438&width=700",
+      "metadata": {
+        "description": "Refresh and recharge with KITSCH's Spa Headband collection. Find the perfect headband to relax in style and enjoy free shipping on orders over $35. Shop now!",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Rosewood Active Headbands 3pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/stretchy-headbands-3pc-set-rosewood",
+      "snippet": "Soft, stretchy design keeps hair in place without slipping, and away from your face while working out or lounging Keeps hair and flyways out of your face ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/stretchy-headbands-3pc-set-rosewood",
+      "image": "http://www.mykitsch.com/cdn/shop/files/501628-RecycledFabricActiveHeadbands-3pc-Hair-Rosewood-hero-1280x1280px.jpg?v=1742320517",
+      "metadata": {
+        "description": "Soft, stretchy design keeps hair in place without slipping, and away from your face while working out or lounging  Keeps hair and flyways out of your face with an elevated twist detail Includes three headbands in a pretty neutral hues Why You'll Love This:  Made from recycled fabric for an eco-friendly, everyday look N",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "10.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/501628-RecycledFabricActiveHeadbands-3pc-Hair-Rosewood-hero-1280x1280px.jpg?v=1742320517"
+      }
+    },
+    {
+      "title": "Hair & Body Care from Kitsch – KITSCH",
+      "link": "https://www.mykitsch.com/pages/hair-body-care-from-kitsch",
+      "snippet": "Explore Kitsch's Hair & Body Care collection for natural, eco-friendly beauty solutions. From bottle-free shampoos & conditioners to hydrating body washes, ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/pages/hair-body-care-from-kitsch",
+      "image": "https://www.mykitsch.com/cdn/shop/files/Rosemary_BiotinShampoo_Conditioner-Bundle.jpg?v=1730471668&width=700",
+      "metadata": {
+        "description": "Explore Kitsch's Hair & Body Care collection for natural, eco-friendly beauty solutions. From bottle-free shampoos & conditioners to hydrating body washes, our products are vegan, cruelty-free, and designed in California. 90-day guarantee.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Shop Hair Ties at KITSCH | Free Shipping $35+ | 90 Day Returns",
+      "link": "https://www.mykitsch.com/collections/hair-ties",
+      "snippet": "Shop KITSCH's range of eco-friendly hair ties, perfect for all hair types. Get free shipping on orders over $35 and 90 days free returns.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-ties",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69377-MetalCloudCuff-Large-Gold-Hair-1280x1280px.jpg?v=1741198535&width=700",
+      "metadata": {
+        "description": "Shop KITSCH's range of eco-friendly hair ties, perfect for all hair types. Get free shipping on orders over $35 and 90 days free returns.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Bobby Pins & Hair Clips | KITSCH",
+      "link": "https://www.mykitsch.com/collections/bobby-pins",
+      "snippet": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/bobby-pins",
+      "image": "https://www.mykitsch.com/cdn/shop/files/500447-MediumFlatCloudClip-SeasonalCollection-Cherry-hero-1280x1280px.jpg?v=1752172044&width=700",
+      "metadata": {
+        "description": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Creaseless Hair Clips 4pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/creaseless-clips-4pc-set-black-terrazzo",
+      "snippet": "Kitsch Eco-Friendly Creaseless Clips are a make up maven's must-have. Made with recycled materials, these clips are kind on your hair & the environment.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/creaseless-clips-4pc-set-black-terrazzo",
+      "image": "http://www.mykitsch.com/cdn/shop/files/7766-EcoFriendlyCreaselessClips-4pc-KitschPro-Terrazo_Black-hero-1280x1280px.jpg?v=1709803875",
+      "metadata": {
+        "description": "Get your hair game on fleek with Kitsch's Creaseless Clips 4pc Set in Black Terrazzo. Made with recycled materials, these eco-friendly clips hold hair sections without leaving a crease. Plus, enjoy free shipping over $35!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "10.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/7766-EcoFriendlyCreaselessClips-4pc-KitschPro-Terrazo_Black-hero-1280x1280px.jpg?v=1709803875"
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online",
+      "link": "https://www.mykitsch.com/collections/hair-accessories",
+      "snippet": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-accessories",
+      "image": "https://www.mykitsch.com/cdn/shop/files/500447-MediumFlatCloudClip-SeasonalCollection-Cherry-hero-1280x1280px.jpg?v=1752172044&width=700",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Bobby Pins & Hair Clips | KITSCH – tagged \"Hair Accessories: Claw ...",
+      "link": "https://www.mykitsch.com/collections/bobby-pins/hair-accessories-claw-clips",
+      "snippet": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/bobby.../hair-accessories-claw-clips",
+      "image": "https://www.mykitsch.com/cdn/shop/files/65720-HelloKittyxKitsch-RecycledPlasticCreaselessClips-2pc-pkg-300dpi.jpg?v=1717509977&width=700",
+      "metadata": {
+        "description": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Rose Gold Styling Hair Clips 6pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/styling-clip-rose-gold",
+      "snippet": "Shop the Styling Hair Clips 6pc in Rose Gold from Hair Accessories at KITSCH. These salon-quality clips have pro strength hinges and are perfect for all ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/styling-clip-rose-gold",
+      "image": "http://www.mykitsch.com/cdn/shop/files/1542-KitschPro-stylingClips-roseGold-hero-1280x1280px.jpg?v=1709803309",
+      "metadata": {
+        "description": "Shop the Styling Hair Clips 6pc in Rose Gold from Hair Accessories at KITSCH. These salon-quality clips have pro strength hinges and are perfect for all hair types. Enjoy free shipping on orders over $35.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "10.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/1542-KitschPro-stylingClips-roseGold-hero-1280x1280px.jpg?v=1709803309"
+      }
+    },
+    {
+      "title": "KITSCH™ Official Site | Hair Care & Accessories",
+      "link": "https://www.mykitsch.com/",
+      "snippet": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/",
+      "image": "https://www.mykitsch.com/cdn/shop/files/63832-6745-6752-9852-60602-9487-CreativeProductShoot-Group-1280x1280px.jpg?v=1719418029&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Metal Rhinestone Creaseless Clips 2pc Set- Hematite – KITSCH",
+      "link": "https://www.mykitsch.com/products/metal-rhinestone-creaseless-clips-2pc-set",
+      "snippet": "The ultimate hair accessory for anyone who wants to keep their hair in place without any creases! Our clips feature a beautiful rhinestone design that adds ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/metal-rhinestone-creaseless-clips-2pc-set",
+      "image": "http://www.mykitsch.com/cdn/shop/files/62040-MetalCreaselessClips-2pc-Hair-Black_Rhinestone-pkg-1280x1280px_1.jpg?v=1711024122",
+      "metadata": {
+        "description": "The ultimate hair accessory for anyone who wants to keep their hair in place without any creases! Our clips feature a beautiful rhinestone design that adds a touch of glamour to any hairstyle. No creases or marks left on the hair Holds hair in place without slipping Comfortable and easy to use, great for most hair type",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "12.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/62040-MetalCreaselessClips-2pc-Hair-Black_Rhinestone-pkg-1280x1280px_1.jpg?v=1711024122"
+      }
+    },
+    {
+      "title": "Creaseless Hair Clips 4pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/en-no/products/creaseless-clips-4pc-set-black-terrazzo",
+      "snippet": "Kitsch Eco-Friendly Creaseless Clips are a make up maven's must-have. Made with recycled materials, these clips are kind on your hair & the environment ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/en-no/.../creaseless-clips-4pc-set-black-terrazzo",
+      "image": "http://www.mykitsch.com/cdn/shop/files/7766-EcoFriendlyCreaselessClips-4pc-KitschPro-Terrazo_Black-hero-1280x1280px.jpg?v=1709803875",
+      "metadata": {
+        "description": "Get your hair game on fleek with Kitsch's Creaseless Clips 4pc Set in Black Terrazzo. Made with recycled materials, these eco-friendly clips hold hair sections without leaving a crease. Plus, enjoy free shipping over $35!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "144,00",
+        "currency": "NOK",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/7766-EcoFriendlyCreaselessClips-4pc-KitschPro-Terrazo_Black-hero-1280x1280px.jpg?v=1709803875"
+      }
+    },
+    {
+      "title": "Kitsch x Mickey and Minnie Cloud Claw Clip in Cream Rhinestone ...",
+      "link": "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-recycled-plastic-rhinestone-puffy-claw-clip-1pc-cream",
+      "snippet": "Effortlessly clip up your hair with this playful rhinestone pattern inspired by Mickey and Minnie Medium arch shape comfortably & securely holds most hair ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../mickey-minnie-x-kitsch-recycled-plastic-rhin...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/66079-MickeyMinniexKitsch-RecycledPlasticRhinestoneClawClip-1pc-Cream-hero-1280x1280px.jpg?v=1721861814",
+      "metadata": {
+        "description": "Effortlessly clip up your hair with this playful rhinestone pattern inspired by Mickey and Minnie Medium arch shape comfortably &amp; securely holds most hair lengths and textures, even thick and curly hair Our very own cloud-shaped design elevates your full updo or half-up Made from recycled plastic for an eco-friendl",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "12.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/66079-MickeyMinniexKitsch-RecycledPlasticRhinestoneClawClip-1pc-Cream-hero-1280x1280px.jpg?v=1721861814"
+      }
+    },
+    {
+      "title": "Hello Kitty x Kitsch Recycled Plastic Creaseless Clips 2pc Set ...",
+      "link": "https://www.mykitsch.com/products/hello-kitty-x-kitsch-recycled-plastic-creaseless-clips-2pc-set",
+      "snippet": "The satin pillowcases support healthy strands by helping to reduce frizz and breakage, while the hair accessories help you protect & style for happier hair and ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../hello-kitty-x-kitsch-recycled-plastic-creaseless...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/65720-HelloKittyxKitsch-RecycledPlasticCreaselessClips-2pc-pkg-300dpi.jpg?v=1717509977",
+      "metadata": {
+        "description": "Say “hello” to our cutest collection yet: Kitsch x Hello Kitty! This limited-edition lineup of sleep and styling essentials is inspired by Hello Kitty’s bright, cheerful spirit. Set includes two regular-sized bow-shaped clips inspired by Hello Kitty’s iconic accessory Keeps flyaways and bangs away from your face while",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "9.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/65720-HelloKittyxKitsch-RecycledPlasticCreaselessClips-2pc-pkg-300dpi.jpg?v=1717509977"
+      }
+    },
+    {
+      "title": "Satin Pillowcase in Ivory – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-pillowcase-ivory",
+      "snippet": "Sleep better with our Satin Pillowcase in Ivory. This pillowcase is gentle on skin, hair, eyelashes, and eyebrows, reducing breakage and taming frizz by ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/satin-pillowcase-ivory",
+      "image": "http://www.mykitsch.com/cdn/shop/files/4945-StandardSatinPillowcase-Sleep-Ivory-hero-300dpi.jpg?v=1697048564",
+      "metadata": {
+        "description": "Sleep better with our Satin Pillowcase in Ivory. This pillowcase is gentle on skin, hair, eyelashes, and eyebrows, reducing breakage and taming frizz by creating less friction. Its unique material helps to prevent facial creases from sleeping and reduces breakouts by absorbing less moisture and dirt. Plus, stay cool all night with its breathable design. Order now and get ready to wake up feeling refreshed and rejuvenated.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "19.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/4945-StandardSatinPillowcase-Sleep-Ivory-hero-300dpi.jpg?v=1697048564"
+      }
+    },
+    {
+      "title": "All Pillowcases – KITSCH",
+      "link": "https://www.mykitsch.com/collections/all-pillowcases",
+      "snippet": "New! Satin Pillowcase in Cherry Print. 4.9. Rated 4.9 out of 5 stars. 14,498 Reviews. Regular price $19.00. Unit price / per · Satin Pillowcase in Leopard Satin ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/all-pillowcases",
+      "image": "https://www.mykitsch.com/cdn/shop/files/500386-SatinPillowcaseStandard-SeasonalCollection-CherryPrint-hero-1280x1280px.jpg?v=1752172044&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Shop Satin Pillowcases | KITSCH",
+      "link": "https://www.mykitsch.com/collections/shop-satin-pillowcases",
+      "snippet": "Satin Pillowcases - Our Satin collection is made of vegan fiber - 100% polyester satin that is gentle to your hair & skin.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/shop-satin-pillowcases",
+      "image": "https://www.mykitsch.com/cdn/shop/files/4945-StandardSatinPillowcase-Sleep-Ivory-hero-300dpi.jpg?v=1697048564&width=700",
+      "metadata": {
+        "description": "Satin Pillowcases - Our Satin collection is made of vegan fiber - 100% polyester satin that is gentle to your hair & skin.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Sleep – KITSCH",
+      "link": "https://www.mykitsch.com/pages/pillowcases-and-sleep",
+      "snippet": "Select items, 40% OFF - only for a short time. SHOP NOW. Sleep. Filter by. Collection. Category. Shop all. What's New Pillowcases Satin Bonnets Eye Masks",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/pages/pillowcases-and-sleep",
+      "image": "https://www.mykitsch.com/cdn/shop/files/500621-AdjustableOversizedSatinBonnet-SeasonalCollection-CherryPrint-Model-1280x1280px.jpg?v=1743545840&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Satin Pillowcase in Leopard – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-pillowcase-leopard",
+      "snippet": "Get a good night's rest with this hydrating, anti-aging Leopard Satin Pillowcase from Kitsch! Free shipping over $35 plus 90 day free returns.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/satin-pillowcase-leopard",
+      "image": "http://www.mykitsch.com/cdn/shop/files/0848-StandardSatinPillowcase-Sleep-Leopard-hero-300dpi.jpg?v=1697048355",
+      "metadata": {
+        "description": "Get a good night’s rest with this hydrating, anti-aging Leopard Satin Pillowcase from Kitsch! Free shipping over $35 plus 90 day free returns. With benefits like reducing frizz and breakouts, this pillowcase is the perfect addition to any home.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "19.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/0848-StandardSatinPillowcase-Sleep-Leopard-hero-300dpi.jpg?v=1697048355"
+      }
+    },
+    {
+      "title": "Satin Pillowcase in Aura – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-pillowcase-aura",
+      "snippet": "Helps to prevent facial creases from sleeping. Gentle on skin, hair, eyelashes & eyebrows. Stays Cool all night.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/satin-pillowcase-aura",
+      "image": "http://www.mykitsch.com/cdn/shop/files/8862-StandardSatinPillowcase-Sleep-Aura-hero-300dpi.jpg?v=1697049984",
+      "metadata": {
+        "description": "Indulge in the luxurious feel of the Satin Pillowcase - Aura from Pillowcases, available at Kitsch. This eco-friendly pillowcase helps to tame frizz, reduce breakage, and prevent facial creases, while staying cool all night. Enjoy free shipping on orders over $35.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "19.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/8862-StandardSatinPillowcase-Sleep-Aura-hero-300dpi.jpg?v=1697049984"
+      }
+    },
+    {
+      "title": "Satin Pillowcases Catalogue – KITSCH",
+      "link": "https://www.mykitsch.com/collections/satin-pillowcases-catalogue",
+      "snippet": "Select items, 40% OFF - only for a short time. SHOP NOW · Home · Satin Pillowcases Catalogue. Collection: Satin Pillowcases Catalogue. Sort By: manual.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/satin-pillowcases-catalogue",
+      "image": "https://www.mykitsch.com/cdn/shop/files/4945-StandardSatinPillowcase-Sleep-Ivory-hero-300dpi.jpg?v=1697048564&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Satin Pillowcase in Charcoal – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-pillowcase-charcoal-grey",
+      "snippet": "Indulge in a luxurious sleep with Kitsch's Satin Pillowcase in Charcoal Grey. This eco-friendly and gentle pillowcase helps reduce frizz, breakouts, ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/satin-pillowcase-charcoal-grey",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6332-StandardSatinPillowcase-Sleep-Charcoal-hero-300dpi.jpg?v=1697049190",
+      "metadata": {
+        "description": "Indulge in a luxurious sleep with Kitsch's Satin Pillowcase in Charcoal Grey. This eco-friendly and gentle pillowcase helps reduce frizz, breakouts, and facial creases while staying cool all night. Plus, enjoy free shipping on orders over $35.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "19.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6332-StandardSatinPillowcase-Sleep-Charcoal-hero-300dpi.jpg?v=1697049190"
+      }
+    },
+    {
+      "title": "Disney pillowcases – KITSCH",
+      "link": "https://www.mykitsch.com/collections/disney-pillowcases",
+      "snippet": "Select items, 40% OFF - only for a short time. SHOP NOW · Home · Disney pillowcases. Collection: Disney pillowcases. Sort By: manual. Best Selling",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/disney-pillowcases",
+      "image": "https://www.mykitsch.com/cdn/shop/files/62934-DisneyPrincessxKitsch-SatinPillowcase-PrincessParty-1280x1280px_1.jpg?v=1715978619&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Kitsch x Mickey and Minnie Satin Pillowcase in Mr. Mouse – KITSCH",
+      "link": "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-pillowcase-standard-mr-mouse",
+      "snippet": "Get some beauty sleep with this satin pillowcase featuring playful line drawings of your best friends, Mickey and Minnie.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../mickey-minnie-x-kitsch-pillowcase-standard-...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/65980-MickeyMinniexKitsch-StandardSatinPillowcase-MrMouse-Cream-hero-1280x1280px.jpg?v=1721861187",
+      "metadata": {
+        "description": "Get some beauty sleep with this satin pillowcase featuring playful line drawings of your best friends, Mickey and Minnie Helps to tame frizz &amp; reduce breakage while sleeping by creating less friction Helps reduce breakouts by absorbing less moisture and dirt Helps to prevent facial creases from sleeping Gentle on s",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "22.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/65980-MickeyMinniexKitsch-StandardSatinPillowcase-MrMouse-Cream-hero-1280x1280px.jpg?v=1721861187"
+      }
+    },
+    {
+      "title": "Shop Eco-Friendly Shower Caps - KITSCH Free Shipping over $35",
+      "link": "https://www.mykitsch.com/collections/shower-caps",
+      "snippet": "Keep your hair dry and protected with high-quality shower caps from KITSCH. Enjoy free shipping over $35 and be sure to make a statement with Kitsch's ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/shower-caps",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69056-Love_Comfort-2pc-SpaSet-Cleanse-hero-1280x1280px.jpg?v=1737399297&width=700",
+      "metadata": {
+        "description": "Keep your hair dry and protected with high-quality shower caps from KITSCH. Enjoy free shipping over $35 and be sure to make a statement with Kitsch's unique turban designs. Shop now!",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Shower Caps & Hair Towels – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-towels-shower-caps",
+      "snippet": "New! Cherry Print Satin Shower Cap. 4.9. Rated 4.9 out of 5 stars. 2,044 Reviews. Regular price $24.00. Unit price / per · Cherry Print XL Hair Towel Wrap ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-towels-shower-caps",
+      "image": "https://www.mykitsch.com/cdn/shop/files/1_1.jpg?v=1718041465&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Terracotta Checker Satin Shower Cap – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-lined-flexi-shower-cap-terracotta-checker",
+      "snippet": "Open-back design makes it easy to keep all loose hair dry. 2. total hair coverage Extra-wide size & waterproof shell fully covers hair & preserves your style.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../satin-lined-flexi-shower-cap-terracotta-checke...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/61418-SatinLinedFlexiShowerCap-Cleanse-TerracottaChecker-hero-1280x1280px.jpg?v=1709639302",
+      "metadata": {
+        "description": "Experience the ultimate luxury and functionality with our Satin Lined Luxury Shower Cap in Checker design. Protect your style and keep your hair frizz-free with our extra-wide, waterproof cap. Its adjustable back wire closure ensures a secure and comfortable fit for any hair length. Indulge in the perfect self-care accessory that combines fashion and practicality.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "19.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/61418-SatinLinedFlexiShowerCap-Cleanse-TerracottaChecker-hero-1280x1280px.jpg?v=1709639302"
+      }
+    },
+    {
+      "title": "Stripe Shower Cap – KITSCH",
+      "link": "https://www.mykitsch.com/products/luxe-shower-cap-black-and-white-stripe",
+      "snippet": "Shop our stylish and sustainable Recycled Polyester Luxe Shower Cap - Stripe with a no-slip silicone grip. Stay comfortable with no skin indentations and ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/luxe-shower-cap-black-and-white-stripe",
+      "image": "http://www.mykitsch.com/cdn/shop/files/0835-Luxe-ShowerCap-Cleanse-Stripe-hero-1280x1280px.jpg?v=1709639298",
+      "metadata": {
+        "description": "Shop our stylish and sustainable Recycled Polyester Luxe Shower Cap - Stripe with a no-slip silicone grip. Stay comfortable with no skin indentations and enjoy its waterproof and quick-drying properties. Use it for hair conditioning treatments or daily showers. Order now and receive free shipping on purchases of $35 or more!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "19.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/0835-Luxe-ShowerCap-Cleanse-Stripe-hero-1280x1280px.jpg?v=1709639298"
+      }
+    },
+    {
+      "title": "Cherry Print Satin Shower Cap – KITSCH",
+      "link": "https://www.mykitsch.com/products/cherry-print-satin-shower-cap",
+      "snippet": "Chic cherry print brings style to your shower experience. Luxurious satin lining is gentle on most hair types. Super-soft inner layer offers extra comfort.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/cherry-print-satin-shower-cap",
+      "image": "http://www.mykitsch.com/cdn/shop/files/69957-Satin-LinedFlexiShowerCap-SeasonalCollection-CherryPrint-hero-1280x1280px.jpg?v=1752172044",
+      "metadata": {
+        "description": "Extra-wide size and waterproof shell fully covers hair and preserves your style Tuck-free! The open-back design makes it easy to keep all loose hair dry Unique adjustable back wire closure delivers a secure and comfortable fit for most hair lengths Why You'll Love This:  Chic cherry print brings style to your shower ex",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "24.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/69957-Satin-LinedFlexiShowerCap-SeasonalCollection-CherryPrint-hero-1280x1280px.jpg?v=1752172044"
+      }
+    },
+    {
+      "title": "Kitsch x Mickey and Minnie Satin Flexi Shower Cap in Mickey Maze ...",
+      "link": "https://www.mykitsch.com/products/mickey-minnie-x-kitsch-satin-lined-flexi-shower-cap-mickey-maze",
+      "snippet": "Customers say this shower cap keeps hair completely dry with its unique design. Many reviews mention the satin lining and adjustable wire closure.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../mickey-minnie-x-kitsch-satin-lined-flexi-sho...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/66048-MickeyMinniexKitsch-SatinLinedFlexiShowerCap-MickeyMaze-Cream-hero-1280x1280px.jpg?v=1721861880",
+      "metadata": {
+        "description": "Featuring playful line drawings of your best friends, Mickey and Minnie Extra-wide size &amp; waterproof shell fully covers hair &amp; preserves your style Tuck-free! The open-back design makes it easy to keep all loose hair dry Unique adjustable back wire closure delivers a secure &amp; comfortable fit for most hair l",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "26.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/66048-MickeyMinniexKitsch-SatinLinedFlexiShowerCap-MickeyMaze-Cream-hero-1280x1280px.jpg?v=1721861880"
+      }
+    },
+    {
+      "title": "Satin Lined Flexi Shower Cap + XL Hair Towel Bundle – KITSCH",
+      "link": "https://www.mykitsch.com/products/satin-lined-flexi-shower-cap-xl-hair-towel-bundle",
+      "snippet": "Luxurious satin lining is gentle on most hair types & keeps hair frizz-free. Super-soft inner layer offers extra comfort for a spa-like shower experience.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../satin-lined-flexi-shower-cap-xl-hair-towel-bu...",
+      "image": "http://www.mykitsch.com/cdn/shop/files/SatinLineFlexiShowerCap-XLQuickDryHairTowel-Bundle_1.jpg?v=1702511269",
+      "metadata": {
+        "description": "Dry your hair faster and more gently with our Extra Large Quick-Dry Hair Towel Wrap. Made from high-quality, ultra-absorbent materials, it's the perfect solution for reducing frizz and maintaining healthy, beautiful hair.",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "31.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/SatinLineFlexiShowerCap-XLQuickDryHairTowel-Bundle_1.jpg?v=1702511269"
+      }
+    },
+    {
+      "title": "Blush Dot Shower Cap – KITSCH",
+      "link": "https://www.mykitsch.com/en-hk/products/kitsch-luxe-shower-cap-blush-dot",
+      "snippet": "Keep your hair dry and your skin comfortable with our stylish and sustainable Recycled Polyester Luxe Shower Cap - Blush Dot. Featuring a no-slip silicone ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/en-hk/.../kitsch-luxe-shower-cap-blush-dot",
+      "image": "http://www.mykitsch.com/cdn/shop/files/0842-Luxe-ShowerCap-Cleanse-BlushDot-hero-1280x1280px.jpg?v=1709638992",
+      "metadata": {
+        "description": "Keep your hair dry and your skin comfortable with our stylish and sustainable Recycled Polyester Luxe Shower Cap - Blush Dot. Featuring a no-slip silicone grip, it's waterproof and quick-drying, preventing skin indentations. Use it for hair conditioning treatments or daily use. Order now and enjoy free shipping on purchases of $35 or more!",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "205.00",
+        "currency": "HKD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/0842-Luxe-ShowerCap-Cleanse-BlushDot-hero-1280x1280px.jpg?v=1709638992"
+      }
+    },
+    {
+      "title": "Flexi Shower Cap & XL Hair Towel 2pc Set – KITSCH",
+      "link": "https://www.mykitsch.com/products/love-comfort-2pc-spa-set",
+      "snippet": "Includes one Satin-Lined Flexi Shower Cap and one Extra Large Quick-Dry Hair Towel Wrap; Protect and preserve your style between wash days with the ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/products/love-comfort-2pc-spa-set",
+      "image": "http://www.mykitsch.com/cdn/shop/files/69056-Love_Comfort-2pc-SpaSet-Cleanse-hero-1280x1280px.jpg?v=1737399297",
+      "metadata": {
+        "description": "Includes the viral Satin-Lined Flexi Shower Cap and one Extra Large Quick-Dry Hair Towel Wrap Protect and preserve your style between wash days with the oversized, waterproof and satin-lined shower cap Cut drying time in half with the oversized towel wrap’s soft, ultra-absorbent microfiber material that helps tame friz",
+        "type": "product",
+        "site_name": "KITSCH",
+        "price": "45.00",
+        "currency": "USD",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/69056-Love_Comfort-2pc-SpaSet-Cleanse-hero-1280x1280px.jpg?v=1737399297"
+      }
+    },
+    {
+      "title": "Shower – KITSCH",
+      "link": "https://www.mykitsch.com/pages/shower",
+      "snippet": "Cherry Print Satin Shower Cap. New! Cherry ... Shower Caps. Sort By: Best Sellers. Best Selling Newest to Oldest Price: Low ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/pages/shower",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69964-XLHairTowelWrap-SeasonalCollection-CherryPrint-Model-3-1280x1280px.jpg?v=1743552681&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Best Sellers | KITSCH Everyday Essentials",
+      "link": "https://www.mykitsch.com/collections/best-sellers",
+      "snippet": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479",
+      "metadata": {
+        "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479"
+      }
+    },
+    {
+      "title": "Best Sellers | KITSCH Everyday Essentials – Page 2",
+      "link": "https://www.mykitsch.com/collections/best-sellers?page=2",
+      "snippet": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers?page=2",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479",
+      "metadata": {
+        "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479"
+      }
+    },
+    {
+      "title": "Best Sellers | KITSCH Everyday Essentials – tagged \"bed sheets\"",
+      "link": "https://www.mykitsch.com/collections/best-sellers/bed-sheets",
+      "snippet": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers/bed-sheets",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479",
+      "metadata": {
+        "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479"
+      }
+    },
+    {
+      "title": "Best Sellers | KITSCH Everyday Essentials – tagged \"claw clip\"",
+      "link": "https://www.mykitsch.com/collections/best-sellers/claw-clip",
+      "snippet": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers/claw-clip",
+      "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479",
+      "metadata": {
+        "description": "Trending Now — Want to find our most popular accessories by your favorite celebrities? Shop our Best Sellers collection online.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://www.mykitsch.com/cdn/shop/files/6745-6752-5472-61593-CreativeProductShoot-Group-2-1280x1280px.jpg?v=1723486479"
+      }
+    },
+    {
+      "title": "Best Sellers - Shampoos & Conditioners – KITSCH",
+      "link": "https://www.mykitsch.com/collections/best-sellers-shampoos-conditioners",
+      "snippet": "Collection: Best Sellers - Shampoos & Conditioners ... LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers-shampoos-conditioners",
+      "image": "https://www.mykitsch.com/cdn/shop/files/BFB-riceWaterProtein_conditioner-5StarReview-819677026752-3000x3000px.jpg?v=1713394983&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Styling – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-styling",
+      "snippet": "LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE. By submitting this form and signing up ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-styling",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69452-PrimingArganOil-HeatProtectant_StylingMist-HairCare-1280x1280px.jpg?v=1744240119&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Best Sellers - Shampoos & Conditioners – KITSCH",
+      "link": "https://www.mykitsch.com/collections/best-sellers-shampoos-conditioners",
+      "snippet": "Collection: Best Sellers - Shampoos & Conditioners ... LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/best-sellers-shampoos-conditioners",
+      "image": "https://www.mykitsch.com/cdn/shop/files/BFB-riceWaterProtein_conditioner-5StarReview-819677026752-3000x3000px.jpg?v=1713394983&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online – tagged ...",
+      "link": "https://mykitsch.com/collections/hair-accessories/satin",
+      "snippet": "So dress up that first date 'do with one of our signature bun pins or throw it back to the 90's with our super soft scrunchies. Whether you're opting for a laid ...",
+      "displayLink": "mykitsch.com",
+      "formattedUrl": "https://mykitsch.com/collections/hair-accessories/satin",
+      "image": "http://cdn.shopify.com/s/files/1/0104/6904/8384/files/kitsch-1small-2_4a08c64d-7d43-4fa1-b4e9-8dbb35da206b.png?v=1637892165",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "product.group",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": "http://cdn.shopify.com/s/files/1/0104/6904/8384/files/kitsch-1small-2_4a08c64d-7d43-4fa1-b4e9-8dbb35da206b.png?v=1637892165"
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online",
+      "link": "https://www.mykitsch.com/collections/hair-accessories",
+      "snippet": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-accessories",
+      "image": "https://www.mykitsch.com/cdn/shop/files/500447-MediumFlatCloudClip-SeasonalCollection-Cherry-hero-1280x1280px.jpg?v=1752172044&width=700",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online – tagged ...",
+      "link": "https://www.mykitsch.com/collections/hair-accessories/hair",
+      "snippet": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-accessories/hair",
+      "image": "https://www.mykitsch.com/cdn/shop/files/65874-HelloKittyxKitsch-XLSatinHeatlessStyling_BowClawClip-4pc-1280x1280px.jpg?v=1729021557&width=700",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online – tagged ...",
+      "link": "https://www.mykitsch.com/collections/hair-accessories/hair-accessories",
+      "snippet": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-accessories/hair-accessories",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69322-MetalCloudCuff-Medium-Gold-Hair-hero-1280x1280px.jpg?v=1740422766&width=700",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories Collabs – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-accessories-collabs",
+      "snippet": "Collection: Hair Accessories Collabs · Kitsch x elf Scrunchies 2pc Set Kitsch x elf Scrunchies 2pc Set · Hello Kitty x Kitsch XL Satin Heatless Styling & Bow ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-accessories-collabs",
+      "image": "https://www.mykitsch.com/cdn/shop/files/65874-HelloKittyxKitsch-XLSatinHeatlessStyling_BowClawClip-4pc-1280x1280px.jpg?v=1729021557&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Accessories | KITSCH: Designer Hair Products Online – tagged ...",
+      "link": "https://www.mykitsch.com/collections/hair-accessories/color-crepe-scarf-scrunchie-2pc-set-terra-cotta",
+      "snippet": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/.../color-crepe-scarf-scrunchie-2pc-set-terra-cott...",
+      "image": "https://cdn.shopify.com/s/files/1/0104/6904/8384/files/image_6_d142b0de-330f-46b1-b89c-4e2eab9a3b60.jpg?v=1749136210",
+      "metadata": {
+        "description": "Hair Accessories — Worn by your favorite celebrities, KITSCH's range of hair accessories is perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Shop Headbands | KITSCH Eco-Friendly Hair Accessories with Free ...",
+      "link": "https://www.mykitsch.com/collections/headbands",
+      "snippet": "Select items, 40% OFF - only for a short time. SHOP NOW · Home · Headbands. Collection: Headbands. Sort By: manual. Best Selling Newest to Oldest",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/headbands",
+      "image": "https://www.mykitsch.com/cdn/shop/files/501611-RecycledFabricActiveHeadbands-3pc-Hair-Sedona-Model-1280x1280px.jpg?v=1742320375&width=700",
+      "metadata": {
+        "description": "Add a touch of glamour to your look with KITSCH's range of fashionable headbands. Enjoy free shipping on orders over $35 and 90 day free returns. Shop now and make a statement!",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Shop Eco-Friendly Shower Caps - KITSCH Free Shipping over $35",
+      "link": "https://www.mykitsch.com/collections/shower-caps",
+      "snippet": "Keep your hair dry and protected with high-quality shower caps from KITSCH. Enjoy free shipping over $35 and be sure to make a statement with Kitsch's ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/shower-caps",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69056-Love_Comfort-2pc-SpaSet-Cleanse-hero-1280x1280px.jpg?v=1737399297&width=700",
+      "metadata": {
+        "description": "Keep your hair dry and protected with high-quality shower caps from KITSCH. Enjoy free shipping over $35 and be sure to make a statement with Kitsch's unique turban designs. Shop now!",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Oils – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-oils",
+      "snippet": "LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE. By submitting this form and signing up ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-oils",
+      "image": "https://www.mykitsch.com/cdn/shop/files/67823-CreativeProductShoot-StrengtheningScalp_HairOil-Rosemary_Biotin-Consumables-3-1280x1280px.jpg?v=1742483967&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Shop Hair Ties at KITSCH | Free Shipping $35+ | 90 Day Returns",
+      "link": "https://www.mykitsch.com/collections/hair-ties",
+      "snippet": "8 Pack Mini Hair Coils - Transparent Hair Accessories KITSCH Mini Hair Coils - Transparent 41 Reviews Regular price $6.00",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-ties",
+      "image": "https://www.mykitsch.com/cdn/shop/files/69377-MetalCloudCuff-Large-Gold-Hair-1280x1280px.jpg?v=1741198535&width=700",
+      "metadata": {
+        "description": "Shop KITSCH's range of eco-friendly hair ties, perfect for all hair types. Get free shipping on orders over $35 and 90 days free returns.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Hair Ties & Scrunchies – KITSCH",
+      "link": "https://www.mykitsch.com/collections/hair-ties-scrunchies",
+      "snippet": "Select items, 40% OFF - only for a short time. SHOP NOW · Home · Hair Ties & Scrunchies. Collection: Hair Ties & Scrunchies. Sort By: manual. Best Selling",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/hair-ties-scrunchies",
+      "image": "https://www.mykitsch.com/cdn/shop/files/68882-CloudScrunchies-3pc-Hair-GardenBouquet-hero-1280x1280px.jpg?v=1742317733&width=700",
+      "metadata": {
+        "description": "Hair & Body Care — From hair accessories to bottle-free beauty, KITSCH is evolving your everyday essentials. Female-owned. Vegan & cruelty-free. 90-day guarantee. Elevated accessories. Eco-friendly. Designed in California.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Bobby Pins & Hair Clips | KITSCH",
+      "link": "https://www.mykitsch.com/collections/bobby-pins",
+      "snippet": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/bobby-pins",
+      "image": "https://www.mykitsch.com/cdn/shop/files/500447-MediumFlatCloudClip-SeasonalCollection-Cherry-hero-1280x1280px.jpg?v=1752172044&width=700",
+      "metadata": {
+        "description": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Bobby Pins & Hair Clips | KITSCH – Page 3",
+      "link": "https://www.mykitsch.com/collections/bobby-pins?page=3",
+      "snippet": "Collection: Hair Clips & Bobby Pins ... LET'S CONNECT! Stay up-to-date with new products and promotions when you sign up for our emails. SUBSCRIBE.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/bobby-pins?page=3",
+      "image": "https://www.mykitsch.com/cdn/shop/products/60008-Hair-recycled-plastic-flatLay-clawClip-2pc-curved-black_tort-2-1280x1280px.jpg?v=1715976407&width=700",
+      "metadata": {
+        "description": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Claw Clips | KITSCH - Evolving Your Everyday Essentials",
+      "link": "https://www.mykitsch.com/collections/bobby-pins-hair-clips",
+      "snippet": "Claw Clips — Shop premium claw clips in high quality metals including gold, rose gold and silver.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/bobby-pins-hair-clips",
+      "image": "https://www.mykitsch.com/cdn/shop/files/4888-EcoFriendly-MediumClawClips-2pc-Hair-Black_Tort-1280x1280px.jpg?v=1715954675&width=700",
+      "metadata": {
+        "description": "Claw Clips — Shop premium claw clips in high quality metals including gold, rose gold and silver.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Bobby Pins & Hair Clips | KITSCH – tagged \"Hair Accessories\"",
+      "link": "https://www.mykitsch.com/collections/bobby-pins/hair-accessories",
+      "snippet": "HAIR CARE. Product Type. Hair Perfumes · Shampoo & Conditioner Combos · Shampoo · Conditioner · Shower Accessories · Styling & Treatments · Styling Tools ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/bobby-pins/hair-accessories",
+      "image": "https://www.mykitsch.com/cdn/shop/files/501949-MetalFrenchHairPin-Hair-Silver-Model-2-1280x1280px.jpg?v=1741991786&width=700",
+      "metadata": {
+        "description": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Claw Clips | KITSCH - Evolving Your Everyday Essentials – tagged ...",
+      "link": "https://www.mykitsch.com/collections/bobby-pins-hair-clips/hair",
+      "snippet": "What's Inside the Vault? · Home · Claw Clips · hair. Collection: Claw Clips. Sort By: manual. Best Selling Newest to Oldest Price: Low to High Price: High ...",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/bobby-pins-hair-clips/hair",
+      "image": "https://www.mykitsch.com/cdn/shop/files/collection-banner-vault-sale-photo-mobile-01_copy.jpg?v=1752791316&width=900",
+      "metadata": {
+        "description": "Claw Clips — Shop premium claw clips in high quality metals including gold, rose gold and silver.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Bobby Pins & Hair Clips | KITSCH – tagged \"Hair Accessories: Claw ...",
+      "link": "https://www.mykitsch.com/collections/bobby-pins/hair-accessories-claw-clips",
+      "snippet": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/bobby.../hair-accessories-claw-clips",
+      "image": "https://www.mykitsch.com/cdn/shop/files/65720-HelloKittyxKitsch-RecycledPlasticCreaselessClips-2pc-pkg-300dpi.jpg?v=1717509977&width=700",
+      "metadata": {
+        "description": "Bobby Pins & Hair Clips — Worn by your favorite celebrities, KITSCH's range of bobby pins & hair clips are perfect for all hair types.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    },
+    {
+      "title": "Shop Hair Towels & Spa Headbands | Free Shipping $35+ | KITSCH",
+      "link": "https://www.mykitsch.com/collections/microfiber-towels",
+      "snippet": "Pamper yourself with Kitsch's microfiber hair towels and spa head bands! Shop this collection for free shipping over $35.",
+      "displayLink": "www.mykitsch.com",
+      "formattedUrl": "https://www.mykitsch.com/collections/microfiber-towels",
+      "image": "https://www.mykitsch.com/cdn/shop/products/4938-beauty-cleanse-hairTowel-microdot-4-1280x1280px.jpg?v=1745004930&width=700",
+      "metadata": {
+        "description": "Pamper yourself with Kitsch's microfiber hair towels and spa head bands! Shop this collection for free shipping over $35.",
+        "type": "website",
+        "site_name": "KITSCH",
+        "price": "",
+        "currency": "",
+        "availability": "",
+        "image": ""
+      }
+    }
+  ]
+}

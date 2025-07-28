@@ -1,0 +1,11 @@
+{
+  "total_queries": 20,
+  "query_limit": 50,
+  "quota_limited": false,
+  "total_results": 110,
+  "collections_found": 23,
+  "products_found": 39,
+  "categories_found": 11,
+  "pages_found": 3,
+  "unique_urls": 89
+}

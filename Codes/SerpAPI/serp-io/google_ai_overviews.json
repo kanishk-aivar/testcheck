@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "total_queries": 5,
+    "timestamp": "2025-07-24 16:09:41",
+    "quota_limited": false,
+    "queries_used": 5,
+    "queries_limit": 20,
+    "total_overviews": 2
+  },
+  "ai_overviews": [
+    {
+      "query": "\"What are the key ingredients in the Kitsch Rosemary & Biotin Volumizing Shampoo & Conditioner?\",",
+      "content": "Sodium Cocoyl Isethionate, Sodium Methyl Cocoyl Taurate, Vegetable Glycerin, Hydrogenated Castor Oil, Fragrance, Biotin, Rosmarinus Officinalis (Rosemary) Leaf Extract, Amaranthus Caudatus Seed Extract, Activated Charcoal, Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Oat Protein, Chromium Oxide Green (CI77288), ...",
+      "links": [
+        "https://www.ulta.com/p/rosemary-biotin-volumizing-shampoo-bar-pimprod2045895?sku=2627387#:~:text=Sodium%20Cocoyl%20Isethionate%2C%20Sodium%20Methyl,Chromium%20Oxide%20Green%20(CI77288)%2C"
+      ]
+    },
+    {
+      "query": "      \"Is the Kitsch Rosemary & Biotin combo good for fine, thin hair?\",",
+      "content": "The oil nourishes the scalp, reduces frizz, and helps with hair fall. It's easy to apply and wash off. Overall, a great choice for healthy hair!",
+      "links": [
+        "https://www.iherb.com/r/kitsch-pre-wash-scalp-oil-rosemary-biotin-2-oz-60-ml/119711#:~:text=The%20oil%20nourishes%20the%20scalp,great%20choice%20for%20healthy%20hair!"
+      ]
+    }
+  ]
+}

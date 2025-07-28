@@ -1,0 +1,10 @@
+{
+  "total_queries": 5,
+  "query_limit": 20,
+  "quota_limited": false,
+  "total_overviews": 2,
+  "queries_with_overviews": [
+    "\"What are the key ingredients in the Kitsch Rosemary & Biotin Volumizing Shampoo & Conditioner?\",",
+    "      \"Is the Kitsch Rosemary & Biotin combo good for fine, thin hair?\","
+  ]
+}
